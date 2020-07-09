@@ -1,0 +1,64 @@
+@import '../assets/scss/_variables.scss';
+
+.Category--title {
+  text-align: center;
+  font-size: 1.4rem;
+  margin-top: 0;
+  margin-bottom: .2em;
+  color: #481d32;
+}
+
+.Category--subtitle {
+  text-align: center;
+  font-size: 1rem;
+  color: #481d32;
+}
+
+.Category {
+  margin-top: -15px;
+
+  .card {
+    .btn {
+      height: 2.4rem;
+      font-size: .8rem;
+      line-height: 1.9rem;
+    }
+
+    .card-image {
+      border: 1px solid $primary;
+      margin: 0 1px;
+      height: 170px;
+      margin-bottom: 2px;
+      overflow: hidden;
+      padding: 20px;
+
+      .img-responsive {
+        width: 80%;
+        margin: 0 auto;
+      }
+    }
+  }
+}
+
+.BtnMore {
+  & > a {
+    line-height: 1.8rem;
+  }
+  .btn {
+    width: 100%;
+    font-size: .8rem;
+    height: 2.4rem;
+
+    &.accordion-header {
+      position: relative;
+      line-height: 2rem;
+
+      .icon {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        font-size: 1rem;
+      }
+    }
+  }
+}

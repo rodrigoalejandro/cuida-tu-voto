@@ -1,0 +1,174 @@
+{
+  "titulo": "Cuida tu voto Bolivia",
+  "elegir": "Elige un perfil",
+  "inicio": "Inicio",
+  "categorias": {
+    "protagonistas": {
+      "titulo": "Protagonistas de las elecciones",
+      "botonMas": {
+        "titulo": "Aprende más sobre las elecciones",
+        "enlace": "aprende"
+      },
+      "items": {
+        "item1": {
+          "imagen": "elector.png",
+          "titulo": "Elector/a",
+          "enlace": "elector",
+          "fichas": {
+            "item1": {
+              "titulo": "Conoce el rol de los/as electores/as",
+              "imagen": "ficha1-elector.png",
+              "descripcion": "Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
+            },
+            "item2": {
+              "titulo": "Verifica si estas habilitado/a para votar",
+              "imagen": "ficha2-elector.png",
+              "descripcion": "Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
+            },
+            "item3": {
+              "titulo": "Descubre la importancia de tu participación y voto",
+              "imagen": "proceso-electoral.png",
+              "descripcion": "Descripción"
+            }
+          }
+        },
+        "item2": {
+          "imagen": "jurado.png",
+          "titulo": "Jurado/a electoral",
+          "enlace": "jurado-electoral",
+          "fichas": {
+            "item1": {
+              "titulo": ""
+            }
+          }
+        },
+        "item3": {
+          "imagen": "partido-politico.png",
+          "titulo": "Delegado/a de partido",
+          "enlace": "delegado-partido",
+          "fichas": {
+            "item1": {
+              "titulo": ""
+            }
+          }
+        },
+        "item4": {
+          "imagen": "oep.png",
+          "titulo": "OEP",
+          "enlace": "oep",
+          "fichas": {
+            "item1": {
+              "titulo": ""
+            }
+          }
+        }
+      }
+    },
+    "aprende": {
+      "titulo": "Aprende más sobre las elecciones",
+      "botonMas": {
+        "titulo": "Conoce a los protagonistas de las elecciones",
+        "enlace": "protagonistas"
+      },
+      "items": {
+        "item1": {
+          "imagen": "elector.png",
+          "titulo": "Jornada electoral",
+          "enlace": "elector",
+          "fichas": {
+            "item1": {
+              "titulo": "Conoce cómo inicia la jornada electoral",
+              "imagen": "ficha1-elector.png",
+              "descripcion": "Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
+            },
+            "item2": {
+              "titulo": "Conoce qué actividades contempla la jornada electoral",
+              "imagen": "ficha2-elector.png",
+              "descripcion": "Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
+            },
+            "item3": {
+              "titulo": "Conoce cómo concluye la jornada electoral",
+              "imagen": "proceso-electoral.png",
+              "descripcion": "Descripción"
+            },
+            "item4": {
+              "titulo": "Aprende sobre la cadena de custodia de material electoral",
+              "imagen": "proceso-electoral.png",
+              "descripcion": "Descripción"
+            }
+          }
+        },
+        "item2": {
+          "imagen": "jurado.png",
+          "titulo": "Material electoral",
+          "enlace": "jurado-electoral",
+          "fichas": {
+            "item1": {
+              "titulo": ""
+            }
+          }
+        },
+        "item3": {
+          "imagen": "partido-politico.png",
+          "titulo": "TREP",
+          "enlace": "delegado-partido",
+          "fichas": {
+            "item1": {
+              "titulo": ""
+            }
+          }
+        },
+        "item4": {
+          "imagen": "oep.png",
+          "titulo": "Cómputo oficial",
+          "enlace": "oep",
+          "fichas": {
+            "item1": {
+              "titulo": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  "protocolos": {
+    "titulo": "Protocolos de bioseguridad",
+    "items": {
+      "item1": {
+        "titulo": "Protocolos para salir de casa",
+        "descripcion": "Descripción 1"
+      },
+      "item2": {
+        "titulo": "Protocolos para el recinto electoral",
+        "descripcion": "Descripción 2"
+      },
+      "item3": {
+        "titulo": "Protocolos para regresar a casa",
+        "descripcion": "Descripción 3"
+      }
+    }
+  },
+  "preguntas": {
+    "titulo": "Preguntas frecuentes",
+    "items": {
+      "item1": {
+        "titulo": "¿Por qué hay personas fallecidas habilitadas para votar?",
+        "descripcion": "La actualización del padrón electoral no está automatizada, ni se ejecuta en tiempo real, eso implica que un fallecimiento registrado en el SERECI se deba actualizar manualmente en el padrón (lo que nunca es inmediato), por esta situación existen listas de electores habilitados/as con personas fallecidas en ellas."
+      },
+      "item2": {
+        "titulo": "¿Hay algún porcentaje mínimo de asistencia para una elección?",
+        "descripcion": "Respuesta 2"
+      },
+      "item3": {
+        "titulo": "¿Qué sucede si no emito mi voto a pesar de estar habilitado?",
+        "descripcion": "Respuesta 3"
+      }
+    }
+  },
+  "error": {
+    "403": "Sin permisos",
+    "404": "Página no encontrada",
+    "500": "A ocurrido un error",
+    "home": "Volver a la página principal"
+  }
+}
