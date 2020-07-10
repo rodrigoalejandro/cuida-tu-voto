@@ -1,7 +1,7 @@
 {
   "titulo": "Cuida tu voto Bolivia",
   "elegir": "Elige un perfil",
-  "inicio": "Inicio",
+  "inicio": "Regresar",
   "categorias": {
     "protagonistas": {
       "titulo": "Protagonistas de las elecciones",
@@ -17,7 +17,7 @@
           "fichas": {
             "item1": {
               "titulo": "Conoce el rol de los/as electores/as",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
             },
             "item2": {
@@ -27,7 +27,7 @@
             },
             "item3": {
               "titulo": "Descubre la importancia de tu participación y voto",
-              "imagen": "proceso-electoral.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "Descripción"
             }
           }
@@ -43,8 +43,8 @@
           }
         },
         "item3": {
-          "imagen": "partido-politico.png",
-          "titulo": "Delegado/a de partido",
+          "imagen": "partidos-politicos.png",
+          "titulo": "Partidos políticos",
           "enlace": "delegado-partido",
           "fichas": {
             "item1": {
@@ -72,8 +72,8 @@
       },
       "items": {
         "item1": {
-          "imagen": "elector.png",
-          "titulo": "Jornada electoral",
+          "imagen": "proceso-electoral3.png",
+          "titulo": "Proceso electoral",
           "enlace": "elector",
           "fichas": {
             "item1": {
@@ -83,23 +83,23 @@
             },
             "item2": {
               "titulo": "Conoce qué actividades contempla la jornada electoral",
-              "imagen": "ficha2-elector.png",
+              "imagen": "proceso-electoral2.png",
               "descripcion": "Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
             },
             "item3": {
               "titulo": "Conoce cómo concluye la jornada electoral",
-              "imagen": "proceso-electoral.png",
+              "imagen": "ficha1-elector.png",
               "descripcion": "Descripción"
             },
             "item4": {
               "titulo": "Aprende sobre la cadena de custodia de material electoral",
-              "imagen": "proceso-electoral.png",
+              "imagen": "proceso-electoral2.png",
               "descripcion": "Descripción"
             }
           }
         },
         "item2": {
-          "imagen": "jurado.png",
+          "imagen": "material-electoral.png",
           "titulo": "Material electoral",
           "enlace": "jurado-electoral",
           "fichas": {
@@ -109,7 +109,7 @@
           }
         },
         "item3": {
-          "imagen": "partido-politico.png",
+          "imagen": "trep.png",
           "titulo": "TREP",
           "enlace": "delegado-partido",
           "fichas": {
@@ -119,7 +119,7 @@
           }
         },
         "item4": {
-          "imagen": "oep.png",
+          "imagen": "computo-oficial.png",
           "titulo": "Cómputo oficial",
           "enlace": "oep",
           "fichas": {

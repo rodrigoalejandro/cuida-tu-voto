@@ -1,19 +1,68 @@
 <template>
   <div class="Social">
     <nuxt-link
-      :to="localePath('/')"
+      v-if="show"
+      :to="localePath(back)"
       class="btn btn-link"
     >
-      🏠 {{ $t('inicio') }}
+      <i class="icon icon-back" /> {{ $t('inicio') }}
     </nuxt-link>
-    <ul class="Social-list">
-      <li><a href=""><img src="~/assets/images/social/facebook.png" alt="facebook"></a></li>
-      <li><a href=""><img src="~/assets/images/social/twitter.png" alt="twitter"></a></li>
-      <li><a href=""><img src="~/assets/images/social/telegram.png" alt="telegram"></a></li>
-      <li><a href=""><img src="~/assets/images/social/whatsapp.png" alt="whatsapp"></a></li>
+    <span v-else>&nbsp;</span>
+    <ul v-if="render" class="Social-list">
+      <li v-for="item in networks" :key="item">
+        <ShareNetwork
+          :network="item"
+          :url="url"
+          :title="title"
+          :description="description"
+        >
+          <img :src="require(`~/assets/images/social/${item}.png`)" :alt="item">
+        </ShareNetwork>
+      </li>
     </ul>
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    title: {
+      type: String,
+      default: ''
+    },
+    description: {
+      type: String,
+      default: ''
+    },
+    show: {
+      type: Boolean,
+      default: true
+    },
+    back: {
+      type: String,
+      default: '/'
+    }
+  },
+  data () {
+    return {
+      networks: [
+        'facebook',
+        'twitter',
+        'telegram',
+        'whatsapp'
+      ],
+      render: false,
+      url: null
+    }
+  },
+  created () {
+    if (process.browser) {
+      this.url = window.location.href
+      this.render = true
+    }
+  }
+}
+</script>
 
 <style lang="scss">
 .Social {
@@ -22,7 +71,7 @@
   padding: 0 30px;
 
   & > .btn {
-    margin-top: 5px;
+    margin-top: 10px;
     font-size: .8rem;
   }
 }
@@ -50,6 +99,11 @@
         margin-right: 0;
       }
     }
+  }
+}
+@media (max-width: 640px) {
+  .Social {
+    padding: 0 15px 0 0;
   }
 }
 </style>

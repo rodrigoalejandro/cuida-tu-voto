@@ -62,3 +62,62 @@
     }
   }
 }
+
+@media (max-width: 640px) {
+  .Category {
+    margin-top: 20px;
+
+    .card {
+      .card-image {
+        height: 120px;
+      }
+
+      .btn {
+        font-size: .7rem;
+        padding: 0.25rem 0rem;
+      }
+    }
+
+    .Category--title {
+      font-size: 1.2rem;
+    }
+    .Category--subtitle {
+      font-size: .8rem;
+      line-height: .8rem;
+
+      .avatar.avatar-lg {
+        height: 1.5rem;
+        width: 1.5rem;
+        font-size: .8rem;
+        line-height: 1.7rem;
+      }
+    }
+    .Category--search {
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
+
+      .form-input.input-lg {
+        font-size: .8rem;
+      }
+    }
+    .BtnMore {
+      .btn {
+        font-size: .7rem;
+        white-space: normal;
+        height: auto;
+        line-height: 1rem;
+        padding: .6rem .5rem;
+
+        &.accordion-header {
+          line-height: 1rem;
+
+          .icon {
+            right: 3px;
+            font-size: .8rem;
+          }
+        }
+      }
+    }
+  }
+}

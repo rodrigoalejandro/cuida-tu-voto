@@ -2,13 +2,13 @@
 // The number of carousel images
 $carousel-number: 8;
 
-%carousel-image-checked { 
+%carousel-image-checked {
   animation: carousel-slidein .75s ease-in-out 1;
   opacity: 1;
   z-index: $zindex-1;
 }
 
-%carousel-nav-checked { 
+%carousel-nav-checked {
   color: $gray-color-light;
 }
 
@@ -132,5 +132,25 @@ $carousel-number: 8;
   100% {
     opacity: 1;
     transform: translateX(-50%);
+  }
+}
+
+@keyframes carousel-slidein-right {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-200%);
+  }
+}
+
+@keyframes carousel-slideout-right {
+  0% {
+    opacity: 1;
+    transform: translateX(50%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
   }
 }

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Social />
+    <Social :title="$t(`${section}.titulo`)" />
     <div class="container grid-lg Category">
       <h2 class="Category--title">
         {{ $t(`${section}.titulo`) }}
@@ -20,8 +20,12 @@
           :key="key"
           class="accordion BtnMore"
         >
-          <input :id="key" type="radio" name="accordion-radio" :checked="key === 'item1'" hidden="">
-          <label class="accordion-header c-hand btn btn-info" :for="key">
+          <input :id="key" type="radio" name="accordion-radio" hidden>
+          <label
+            class="accordion-header c-hand btn btn-info"
+            :for="key"
+            @click="toggle(key)"
+          >
             {{ $t(`${section}.items.${key}.titulo`) }} <i class="icon icon-arrow-right mr-1" />
           </label>
           <div class="accordion-body">
@@ -46,7 +50,8 @@ export default {
   },
   data () {
     return {
-      search: null
+      search: null,
+      title: ''
     }
   },
   computed: {
@@ -63,6 +68,15 @@ export default {
         return result
       }
       return items
+    }
+  },
+  methods: {
+    toggle (key) {
+      if (document.getElementById(key).checked) {
+        setTimeout(() => {
+          document.getElementById(key).checked = false
+        }, 1)
+      }
     }
   }
 }

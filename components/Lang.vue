@@ -60,4 +60,14 @@ export default {
     }
   }
 }
+@media (max-width: 640px) {
+  .Lang {
+    .dropdown {
+      .dropdown-toggle {
+        color: #f7d1d5;
+        font-size: .8rem;
+      }
+    }
+  }
+}
 </style>

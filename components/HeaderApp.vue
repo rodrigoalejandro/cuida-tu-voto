@@ -25,4 +25,16 @@
 .Logo {
   width: 150px;
 }
+
+@media (max-width: 640px) {
+  .Logo {
+    display: none;
+  }
+  .Header {
+    h1 {
+      font-size: 1rem;
+      padding: 8px 10px;
+    }
+  }
+}
 </style>

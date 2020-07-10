@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Social />
+    <Social :title="$t(`categorias.${section}.titulo`)" :show="false" />
     <div class="container grid-lg">
       <div class="Category">
         <h2 class="Category--title">
@@ -15,21 +15,20 @@
             :key="key"
             class="column col-xs-6 col-sm-3"
           >
-            <div class="card">
-              <div class="card-image">
-                <img
-                  :src="require(`../../assets/images/categorias/${item.imagen}`)"
-                  :alt="item.imagen"
-                  class="img-responsive"
-                >
+            <nuxt-link :to="localePath(`/${section}/${item.enlace}`)">
+              <div class="card">
+                <div class="card-image">
+                  <img
+                    :src="require(`../../assets/images/categorias/${item.imagen}`)"
+                    :alt="item.imagen"
+                    class="img-responsive"
+                  >
+                </div>
+                <div class="btn btn-primary">
+                  {{ $t(`categorias.${section}.items.${key}.titulo`) }}
+                </div>
               </div>
-              <nuxt-link
-                :to="localePath(`/${section}/${item.enlace}`)"
-                class="btn btn-primary"
-              >
-                {{ $t(`categorias.${section}.items.${key}.titulo`) }}
-              </nuxt-link>
-            </div>
+            </nuxt-link>
           </div>
         </div>
         <div class="BtnMore">

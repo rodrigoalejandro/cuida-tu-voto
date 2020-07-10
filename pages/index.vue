@@ -5,7 +5,7 @@
 <script>
 export default {
   created () {
-    this.$router.push('protagonistas')
+    this.$router.push(this.localePath('/protagonistas'))
   }
 }
 </script>
