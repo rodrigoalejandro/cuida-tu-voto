@@ -188,10 +188,15 @@ export default {
       const number = parseInt(key.replace('item', ''))
       return number % 2 === 0
     },
-    setToken (key) {
+    setToken (keyNext, keyPrev, animation) {
       window.localStorage.setItem('lang', this.$i18n.locale)
-      window.localStorage.setItem('token', key)
-      this.currentToken = key
+      window.localStorage.setItem('token', keyNext)
+      this.currentToken = keyNext
+      if (keyPrev && animation) {
+        this.token.fichas[keyPrev].animateOut = ''
+        this.token.fichas[keyPrev].animateIn = ''
+        this.token.fichas[keyNext].animateIn = animation
+      }
     },
     prev (key) {
       let number = parseInt(key.replace('item', ''))
@@ -199,11 +204,7 @@ export default {
       if (number === 0) {
         number = Object.keys(this.token.fichas).length - 1
       }
-      const item = `item${number}`
-      this.token.fichas[key].animateOut = ''
-      this.token.fichas[key].animateIn = ''
-      this.token.fichas[item].animateIn = 'animate__slideInLeft'
-      this.setToken(item)
+      this.setToken(`item${number}`, key, 'animate__slideInLeft')
     },
     next (key) {
       let number = parseInt(key.replace('item', ''))
@@ -211,11 +212,7 @@ export default {
       if (number > Object.keys(this.token.fichas).length) {
         number = 1
       }
-      const item = `item${number}`
-      this.token.fichas[key].animateOut = ''
-      this.token.fichas[key].animateIn = ''
-      this.token.fichas[item].animateIn = 'animate__slideInRight'
-      this.setToken(item)
+      this.setToken(`item${number}`, key, 'animate__slideInRight')
     },
     setMeta () {
       this.meta.title = this.$t('titulo')
