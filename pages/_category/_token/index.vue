@@ -358,6 +358,7 @@ export default {
   }
   .carousel-container {
     height: 420px;
+    margin-bottom: 50px;
   }
   .Token--column {
     flex-direction: column;

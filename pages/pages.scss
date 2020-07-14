@@ -52,6 +52,18 @@
   }
 }
 
+.carousel-buttons {
+  .btn[disabled],
+  .btn:disabled,
+  .btn.disabled {
+    opacity: 1;
+
+    &.btn-info {
+      background-color: lighten($info, 20%);
+    }
+  }
+}
+
 .BtnMore {
   & > a {
     line-height: 1.8rem;
@@ -148,7 +160,7 @@
 
   .Token--fixed {
     position: fixed;
-    z-index: 1;
+    z-index: 2;
     background-color: #fff;
     right: 0;
     left: 0;
@@ -156,6 +168,19 @@
 
     & + .container {
       padding-top: 166px;
+    }
+  }
+
+  .carousel-buttons {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+
+    .btn {
+      border-radius: 0;
+      margin: 0;
     }
   }
 }
