@@ -11,11 +11,10 @@
       <i class="icon icon-back" /> {{ $t('inicio') }}
     </a>
     <span v-else>&nbsp;</span>
-    <ul v-if="render" class="Social-list">
+    <ul class="Social-list">
       <li v-for="item in networks" :key="item">
         <ShareNetwork
           :network="item"
-          :url="url"
           :title="title"
           :description="description"
         >
@@ -53,15 +52,7 @@ export default {
         'twitter',
         'telegram',
         'whatsapp'
-      ],
-      render: false,
-      url: null
-    }
-  },
-  created () {
-    if (process.browser) {
-      this.url = window.location.href
-      this.render = true
+      ]
     }
   }
 }

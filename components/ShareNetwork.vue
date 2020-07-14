@@ -49,14 +49,6 @@ export default {
     },
 
     /**
-     * URL of the content to share.
-     */
-    url: {
-      type: String,
-      required: true
-    },
-
-    /**
      * Title of the content to share.
      */
     title: {
@@ -116,6 +108,7 @@ export default {
 
   data () {
     return {
+      url: process.env.baseUrl + this.$route.fullPath,
       popup: {
         width: 626,
         height: 436,

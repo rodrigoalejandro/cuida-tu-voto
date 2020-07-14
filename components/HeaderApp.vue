@@ -3,7 +3,9 @@
     <div class="Logo">
       &nbsp;
     </div>
-    <h1>{{ $t('titulo') }}</h1>
+    <nuxt-link :to="localePath('/')">
+      <h1>{{ $t('titulo') }}</h1>
+    </nuxt-link>
     <Lang />
   </header>
 </template>
