@@ -1,12 +1,15 @@
 <template>
   <div class="Social">
     <nuxt-link
-      v-if="show"
+      v-if="show && back !== '/'"
       :to="localePath(back)"
       class="btn btn-link"
     >
       <i class="icon icon-back" /> {{ $t('inicio') }}
     </nuxt-link>
+    <a v-else-if="show" class="btn btn-link" href="javascript:window.history.back()">
+      <i class="icon icon-back" /> {{ $t('inicio') }}
+    </a>
     <span v-else>&nbsp;</span>
     <ul v-if="render" class="Social-list">
       <li v-for="item in networks" :key="item">

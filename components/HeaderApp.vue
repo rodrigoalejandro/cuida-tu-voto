@@ -27,13 +27,17 @@
 }
 
 @media (max-width: 640px) {
+  .Header {
+    height: 40px;
+  }
   .Logo {
     display: none;
   }
   .Header {
     h1 {
-      font-size: 1rem;
+      font-size: .9rem;
       padding: 8px 10px;
+      line-height: 24px;
     }
   }
 }

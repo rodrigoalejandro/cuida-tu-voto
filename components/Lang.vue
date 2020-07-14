@@ -62,6 +62,8 @@ export default {
 }
 @media (max-width: 640px) {
   .Lang {
+    width: auto;
+
     .dropdown {
       .dropdown-toggle {
         color: #f7d1d5;

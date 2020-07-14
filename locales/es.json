@@ -18,12 +18,20 @@
             "item1": {
               "titulo": "Conoce el rol de los/as electores/as",
               "imagen": "ficha3-elector.png",
-              "descripcion": "Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
+              "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
             },
             "item2": {
               "titulo": "Verifica si estas habilitado/a para votar",
               "imagen": "ficha2-elector.png",
-              "descripcion": "Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
+              "descripcion": "Para poder votar debes estar registrado en el padrón electoral y no tener observaciones en tu registro que sean causa de inhabilitación.{0}Si estás empadronado, debes ingresar a {1} y verificar si no tienes observaciones y estás habilitado/a para votar. Si estuvieras inhabilitado/a puedes descargar, llenar y enviar tu formulario de reclamo desde ese mismo portal hasta el 28 de julio.{0}Si no estás empadronado y cumples 18 años hasta el 6 de septiembre, aún te puedes inscribir y votar en las elecciones 2020. Debes ir a un punto de empadronamiento hasta el 17 de julio portando tu documento de identidad. Los puntos habilitados por el OEP se detallan en {2}",
+              "link": {
+                "texto": "https://yoparticipo.oep.org.bo/",
+                "url": "https://yoparticipo.oep.org.bo/"
+              },
+              "link2": {
+                "texto": "https://www.oep.org.bo/empadronamiento-elecciones-generales-2020/",
+                "url": "https://www.oep.org.bo/empadronamiento-elecciones-generales-2020/"
+              }
             },
             "item3": {
               "titulo": "Descubre la importancia de tu participación y voto",
@@ -77,21 +85,30 @@
           "enlace": "elector",
           "fichas": {
             "item1": {
-              "titulo": "Conoce cómo inicia la jornada electoral",
+              "titulo": "Aprende más sobre el padrón electoral",
               "imagen": "ficha1-elector.png",
-              "descripcion": "Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
+              "descripcion": "El padrón electoral es el registro biométrico de todos/as los bolivianos/as en edad de votar (mayores a 18 años). En base a la información registrada en el padrón y su proximidad a nuestro domicilio, el OEP nos asigna una circunscripción, recinto y mesa de votación.{0}El padrón electoral se actualiza continuamente debido al empadronamiento de nuevos electores, la actualización del domicilio de los inscritos y la depuración de fallecidos/as. Estas operaciones, ejecutadas a solicitud de los/ interesados/as, no son automáticas ni inmediatas.{0}El padrón electoral se encuentra sujeto a auditorias de organismos internacionales; el 2017 la OEA efectuó una evaluación al actual padrón con resultados positivos."
             },
             "item2": {
-              "titulo": "Conoce qué actividades contempla la jornada electoral",
+              "titulo": "Conoce qué es el calendario electoral",
               "imagen": "proceso-electoral2.png",
-              "descripcion": "Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
+              "descripcion": "El calendario electoral, aprobado y publicado por el Tribunal Supremo Electoral, establece el orden y plazos de las actividades que se deben cumplir desde la convocatoria al proceso electoral hasta la posesión de las autoridades electas (incluida una posible segunda vuelta).{0}El calendario electoral de las elecciones 2020 sufrió una pausa debido a la pandemia; definido el 6 de septiembre como nueva fecha de elección, las actividades del calendario se reanudaron desde el 26 de junio pasado, dando por cerradas las actividades que se cumplieron antes de la pausa.{0}El calendario final para las elecciones 2020, lo puedes consultar en {1}",
+              "link": {
+                "texto": "https: //www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf",
+                "url": "https: //www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf"
+              }
             },
             "item3": {
-              "titulo": "Conoce cómo concluye la jornada electoral",
+              "titulo": "Conoce las restricciones de la jornada electoral",
               "imagen": "ficha1-elector.png",
               "descripcion": "Descripción"
             },
             "item4": {
+              "titulo": "Conoce el rol de las misiones de observación",
+              "imagen": "proceso-electoral2.png",
+              "descripcion": "Descripción"
+            },
+            "item5": {
               "titulo": "Aprende sobre la cadena de custodia de material electoral",
               "imagen": "proceso-electoral2.png",
               "descripcion": "Descripción"

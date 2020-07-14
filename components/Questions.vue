@@ -1,10 +1,14 @@
 <template>
-  <div>
-    <Social :title="$t(`${section}.titulo`)" />
+  <div :class="`${section}--container`">
+    <div :class="{ 'Token--fixed': stick }">
+      <Social :title="$t(`${section}.titulo`)" />
+      <div class="container grid-lg Category">
+        <h2 class="Category--title">
+          {{ $t(`${section}.titulo`) }}
+        </h2>
+      </div>
+    </div>
     <div class="container grid-lg Category">
-      <h2 class="Category--title">
-        {{ $t(`${section}.titulo`) }}
-      </h2>
       <div class="has-icon-right Category--search">
         <input
           v-model="search"
@@ -30,7 +34,17 @@
           </label>
           <div class="accordion-body">
             <div class="Response">
-              {{ $t(`${section}.items.${key}.descripcion`) }}
+              <i18n
+                tag="div"
+                :path="`${section}.items.${key}.descripcion`"
+              >
+                <div class="separador" />
+                <a v-if="item.link" :href="item.link.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link.texto`) }}</a>
+                <a v-if="item.link2" :href="item.link2.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link2.texto`) }}</a>
+                <a v-if="item.link3" :href="item.link3.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link3.texto`) }}</a>
+                <a v-if="item.link4" :href="item.link4.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link4.texto`) }}</a>
+                <a v-if="item.link5" :href="item.link5.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link5.texto`) }}</a>
+              </i18n>
             </div>
           </div>
         </div>
@@ -48,8 +62,31 @@ export default {
       default: 'preguntas'
     }
   },
+  head () {
+    this.setMeta()
+    return {
+      title: this.meta.title,
+      meta: [
+        { hid: 'description', name: 'description', content: this.meta.description },
+        { hid: 'url', name: 'url', content: this.meta.url },
+        { property: 'og:title', content: this.meta.title },
+        { property: 'og:description', content: this.meta.description },
+        { property: 'og:url', content: this.meta.url },
+        { property: 'og:site_name', content: process.env.baseUrl },
+        { name: 'twitter:image:alt', content: this.meta.title },
+        { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' }
+      ]
+    }
+  },
   data () {
     return {
+      meta: {
+        title: '',
+        description: '',
+        image: '',
+        url: ''
+      },
+      stick: false,
       search: null,
       title: ''
     }
@@ -70,6 +107,16 @@ export default {
       return items
     }
   },
+  created () {
+    if (process.browser) {
+      window.addEventListener('scroll', this.handleScroll)
+    }
+  },
+  destroyed () {
+    if (process.browser) {
+      window.removeEventListener('scroll', this.handleScroll)
+    }
+  },
   methods: {
     toggle (key) {
       if (document.getElementById(key).checked) {
@@ -77,6 +124,14 @@ export default {
           document.getElementById(key).checked = false
         }, 1)
       }
+    },
+    handleScroll () {
+      this.stick = window.scrollY > 40
+    },
+    setMeta () {
+      this.meta.title = this.$t('titulo')
+      this.meta.description = this.$t(`${this.section}.titulo`)
+      this.meta.url = process.env.baseUrl + this.$route.fullPath
     }
   }
 }
@@ -106,5 +161,24 @@ export default {
   background-color: #ededed;
   padding: 15px 20px;
   font-size: .8rem;
+}
+
+@media (max-width: 640px) {
+  .preguntas--container {
+    .Token--fixed {
+
+      & + .container {
+        padding-top: 120px;
+      }
+    }
+  }
+  .protocolos--container {
+    .Token--fixed {
+
+      & + .container {
+        padding-top: 150px;
+      }
+    }
+  }
 }
 </style>
