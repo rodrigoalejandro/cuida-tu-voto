@@ -22,7 +22,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Cuida tu voto Bolivia es una plataforma para aprender sobre la próxima elección presidencial' }
+      { hid: 'description', name: 'description', content: 'Cuida tu voto Bolivia es una página que te dice todo lo que necesitas saber de las elecciones, para que puedas participar de forma segura cuidando tu voto y tu salud.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
