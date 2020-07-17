@@ -1,7 +1,7 @@
 <template>
   <div>
     <div :class="{ 'Token--fixed': stick }">
-      <Social :title="$t(`categorias.${section}.titulo`)" :show="false" />
+      <Social :show="false" />
       <div class="container grid-lg Category">
         <h2 class="Category--title">
           {{ $t(`categorias.${section}.titulo`) }}
