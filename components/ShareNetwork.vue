@@ -173,9 +173,18 @@ export default {
         }
       }
 
+      let url = this.url + ''
+      if (this.key === 'telegram') {
+        const version = parseInt(Math.random() * 100000)
+        if (url.indexOf('?') === -1) {
+          url += '?'
+        }
+        url += `v=${version}`
+      }
+
       return link
         .replace(/@tu/g, '&via=' + encodeURIComponent(this.twitterUser))
-        .replace(/@u/g, encodeURIComponent(this.url))
+        .replace(/@u/g, encodeURIComponent(url))
         .replace(/@t/g, encodeURIComponent(this.title))
         .replace(/@d/g, encodeURIComponent(this.description))
         .replace(/@q/g, encodeURIComponent(this.quote))
