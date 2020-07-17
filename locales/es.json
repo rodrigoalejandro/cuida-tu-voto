@@ -2,15 +2,13 @@
   "titulo": "Cuida tu voto Bolivia",
   "elegir": "Elige un perfil",
   "inicio": "Regresar",
+  "todo": "Todo lo que necesitas saber sobre",
   "categorias": {
     "protagonistas": {
       "titulo": "Protagonistas de las elecciones",
       "botonMas": {
         "titulo": "Aprende más sobre las elecciones",
-        "enlace": "aprende"
-      },
-      "meta": {
-        "descripcion": "Todo lo que necesitas saber sobre los electores"
+        "enlace": "aprende-mas"
       },
       "items": {
         "item1": {
@@ -49,14 +47,16 @@
           "enlace": "jurado-electoral",
           "fichas": {
             "item1": {
-              "titulo": ""
+              "titulo": "",
+              "imagen": "ficha3-elector.png",
+              "descripcion": ""
             }
           }
         },
         "item3": {
           "imagen": "partidos-politicos.png",
           "titulo": "Partidos políticos",
-          "enlace": "delegado-partido",
+          "enlace": "partidos-politicos",
           "fichas": {
             "item1": {
               "titulo": ""
@@ -75,20 +75,17 @@
         }
       }
     },
-    "aprende": {
+    "aprende-mas": {
       "titulo": "Aprende más sobre las elecciones",
       "botonMas": {
         "titulo": "Conoce a los protagonistas de las elecciones",
         "enlace": "protagonistas"
       },
-      "meta": {
-        "descripcion": "Aquí, todo lo que debes conocer del proceso electoral"
-      },
       "items": {
         "item1": {
           "imagen": "proceso-electoral3.png",
           "titulo": "Proceso electoral",
-          "enlace": "elector",
+          "enlace": "proceso-electoral",
           "fichas": {
             "item1": {
               "titulo": "Aprende más sobre el padrón electoral",
@@ -124,7 +121,7 @@
         "item2": {
           "imagen": "material-electoral.png",
           "titulo": "Material electoral",
-          "enlace": "jurado-electoral",
+          "enlace": "material-electoral",
           "fichas": {
             "item1": {
               "titulo": ""
@@ -134,7 +131,7 @@
         "item3": {
           "imagen": "trep.png",
           "titulo": "TREP",
-          "enlace": "delegado-partido",
+          "enlace": "trep",
           "fichas": {
             "item1": {
               "titulo": ""
@@ -144,7 +141,7 @@
         "item4": {
           "imagen": "computo-oficial.png",
           "titulo": "Cómputo oficial",
-          "enlace": "oep",
+          "enlace": "computo-oficial",
           "fichas": {
             "item1": {
               "titulo": ""
@@ -156,9 +153,6 @@
   },
   "protocolos": {
     "titulo": "Protocolos de bioseguridad",
-    "meta": {
-      "descripcion": "Aquí, todo lo que debes conocer de los Protocolos de bioseguridad"
-    },
     "items": {
       "item1": {
         "titulo": "Protocolos para salir de casa",
@@ -176,9 +170,6 @@
   },
   "preguntas": {
     "titulo": "Preguntas frecuentes",
-    "meta": {
-      "descripcion": "Aquí, todas las Preguntas frecuentes del proceso electoral"
-    },
     "items": {
       "item1": {
         "titulo": "¿Por qué hay personas fallecidas habilitadas para votar?",

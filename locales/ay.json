@@ -1,13 +1,14 @@
 {
   "titulo": "(ay)Cuida tu voto Bolivia",
-  "elegir": "(ay)Elige un perfil",
-  "inicio": "(ay)Inicio",
+  "elegir": "Elige un perfil",
+  "inicio": "Regresar",
+  "todo": "Todo lo que necesitas saber sobre",
   "categorias": {
     "protagonistas": {
       "titulo": "(ay)Protagonistas de las elecciones",
       "botonMas": {
         "titulo": "(ay)Aprende más sobre las elecciones",
-        "enlace": "aprende"
+        "enlace": "aprende-mas"
       },
       "items": {
         "item1": {
@@ -17,18 +18,26 @@
           "fichas": {
             "item1": {
               "titulo": "(ay)Conoce el rol de los/as electores/as",
-              "imagen": "ficha1-elector.png",
-              "descripcion": "(ay)Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
             },
             "item2": {
               "titulo": "(ay)Verifica si estas habilitado/a para votar",
               "imagen": "ficha2-elector.png",
-              "descripcion": "(ay)Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
+              "descripcion": "Para poder votar debes estar registrado en el padrón electoral y no tener observaciones en tu registro que sean causa de inhabilitación.{0}Si estás empadronado, debes ingresar a {1} y verificar si no tienes observaciones y estás habilitado/a para votar. Si estuvieras inhabilitado/a puedes descargar, llenar y enviar tu formulario de reclamo desde ese mismo portal hasta el 28 de julio.{0}Si no estás empadronado y cumples 18 años hasta el 6 de septiembre, aún te puedes inscribir y votar en las elecciones 2020. Debes ir a un punto de empadronamiento hasta el 17 de julio portando tu documento de identidad. Los puntos habilitados por el OEP se detallan en {2}",
+              "link": {
+                "texto": "https://yoparticipo.oep.org.bo/",
+                "url": "https://yoparticipo.oep.org.bo/"
+              },
+              "link2": {
+                "texto": "https://www.oep.org.bo/empadronamiento-elecciones-generales-2020/",
+                "url": "https://www.oep.org.bo/empadronamiento-elecciones-generales-2020/"
+              }
             },
             "item3": {
               "titulo": "(ay)Descubre la importancia de tu participación y voto",
-              "imagen": "proceso-electoral.png",
-              "descripcion": "(ay)Descripción"
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Descripción"
             }
           }
         },
@@ -38,14 +47,16 @@
           "enlace": "jurado-electoral",
           "fichas": {
             "item1": {
-              "titulo": "(ay)"
+              "titulo": "(ay)",
+              "imagen": "ficha3-elector.png",
+              "descripcion": ""
             }
           }
         },
         "item3": {
-          "imagen": "partido-politico.png",
-          "titulo": "(ay)Delegado/a de partido",
-          "enlace": "delegado-partido",
+          "imagen": "partidos-politicos.png",
+          "titulo": "(ay)Partidos políticos",
+          "enlace": "partidos-politicos",
           "fichas": {
             "item1": {
               "titulo": "(ay)"
@@ -64,7 +75,7 @@
         }
       }
     },
-    "aprende": {
+    "aprende-mas": {
       "titulo": "(ay)Aprende más sobre las elecciones",
       "botonMas": {
         "titulo": "(ay)Conoce a los protagonistas de las elecciones",
@@ -72,36 +83,45 @@
       },
       "items": {
         "item1": {
-          "imagen": "elector.png",
-          "titulo": "(ay)Jornada electoral",
-          "enlace": "elector",
+          "imagen": "proceso-electoral3.png",
+          "titulo": "(ay)Proceso electoral",
+          "enlace": "proceso-electoral",
           "fichas": {
             "item1": {
-              "titulo": "(ay)Conoce cómo inicia la jornada electoral",
+              "titulo": "(ay)Aprende más sobre el padrón electoral",
               "imagen": "ficha1-elector.png",
-              "descripcion": "(ay)Los/as electores somos todos/as los/as bolivianos/as mayores de 18 años que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. <br><br>Nuestro voto cuenta, para emitirlo y cuidarlo debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido."
+              "descripcion": "El padrón electoral es el registro biométrico de todos/as los bolivianos/as en edad de votar (mayores a 18 años). En base a la información registrada en el padrón y su proximidad a nuestro domicilio, el OEP nos asigna una circunscripción, recinto y mesa de votación.{0}El padrón electoral se actualiza continuamente debido al empadronamiento de nuevos electores, la actualización del domicilio de los inscritos y la depuración de fallecidos/as. Estas operaciones, ejecutadas a solicitud de los/ interesados/as, no son automáticas ni inmediatas.{0}El padrón electoral se encuentra sujeto a auditorias de organismos internacionales; el 2017 la OEA efectuó una evaluación al actual padrón con resultados positivos."
             },
             "item2": {
-              "titulo": "(ay)Conoce qué actividades contempla la jornada electoral",
-              "imagen": "ficha2-elector.png",
-              "descripcion": "(ay)Para poder votar debes ser ciudadano/a boliviano/a, haber cumplido 18 años antes del día de la elección y estar registrado en el padrón electoral biométrico del OEP. Puedes verificar tu habilitación aquí: > https://yoparticipo.oep.org.bo/ <br><br> En caso de estar inhabilitado puedes gestionar tu habilitación ante tu Tribunal Electoral Departamental."
+              "titulo": "(ay)Conoce qué es el calendario electoral",
+              "imagen": "proceso-electoral2.png",
+              "descripcion": "El calendario electoral, aprobado y publicado por el Tribunal Supremo Electoral, establece el orden y plazos de las actividades que se deben cumplir desde la convocatoria al proceso electoral hasta la posesión de las autoridades electas (incluida una posible segunda vuelta).{0}El calendario electoral de las elecciones 2020 sufrió una pausa debido a la pandemia; definido el 6 de septiembre como nueva fecha de elección, las actividades del calendario se reanudaron desde el 26 de junio pasado, dando por cerradas las actividades que se cumplieron antes de la pausa.{0}El calendario final para las elecciones 2020, lo puedes consultar en {1}",
+              "link": {
+                "texto": "https: //www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf",
+                "url": "https: //www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf"
+              }
             },
             "item3": {
-              "titulo": "(ay)Conoce cómo concluye la jornada electoral",
-              "imagen": "proceso-electoral.png",
-              "descripcion": "(ay)Descripción"
+              "titulo": "(ay)Conoce las restricciones de la jornada electoral",
+              "imagen": "ficha1-elector.png",
+              "descripcion": "Descripción"
             },
             "item4": {
+              "titulo": "(ay)Conoce el rol de las misiones de observación",
+              "imagen": "proceso-electoral2.png",
+              "descripcion": "Descripción"
+            },
+            "item5": {
               "titulo": "(ay)Aprende sobre la cadena de custodia de material electoral",
-              "imagen": "proceso-electoral.png",
-              "descripcion": "(ay)Descripción"
+              "imagen": "proceso-electoral2.png",
+              "descripcion": "Descripción"
             }
           }
         },
         "item2": {
-          "imagen": "jurado.png",
+          "imagen": "material-electoral.png",
           "titulo": "(ay)Material electoral",
-          "enlace": "jurado-electoral",
+          "enlace": "material-electoral",
           "fichas": {
             "item1": {
               "titulo": "(ay)"
@@ -109,9 +129,9 @@
           }
         },
         "item3": {
-          "imagen": "partido-politico.png",
+          "imagen": "trep.png",
           "titulo": "(ay)TREP",
-          "enlace": "delegado-partido",
+          "enlace": "trep",
           "fichas": {
             "item1": {
               "titulo": "(ay)"
@@ -119,9 +139,9 @@
           }
         },
         "item4": {
-          "imagen": "oep.png",
+          "imagen": "computo-oficial.png",
           "titulo": "(ay)Cómputo oficial",
-          "enlace": "oep",
+          "enlace": "computo-oficial",
           "fichas": {
             "item1": {
               "titulo": "(ay)"
@@ -136,15 +156,15 @@
     "items": {
       "item1": {
         "titulo": "(ay)Protocolos para salir de casa",
-        "descripcion": "(ay)Descripción 1"
+        "descripcion": "Descripción 1"
       },
       "item2": {
         "titulo": "(ay)Protocolos para el recinto electoral",
-        "descripcion": "(ay)Descripción 2"
+        "descripcion": "Descripción 2"
       },
       "item3": {
         "titulo": "(ay)Protocolos para regresar a casa",
-        "descripcion": "(ay)Descripción 3"
+        "descripcion": "Descripción 3"
       }
     }
   },
@@ -153,15 +173,15 @@
     "items": {
       "item1": {
         "titulo": "(ay)¿Por qué hay personas fallecidas habilitadas para votar?",
-        "descripcion": "(ay)La actualización del padrón electoral no está automatizada, ni se ejecuta en tiempo real, eso implica que un fallecimiento registrado en el SERECI se deba actualizar manualmente en el padrón (lo que nunca es inmediato), por esta situación existen listas de electores habilitados/as con personas fallecidas en ellas."
+        "descripcion": "La actualización del padrón electoral no está automatizada, ni se ejecuta en tiempo real, eso implica que un fallecimiento registrado en el SERECI se deba actualizar manualmente en el padrón (lo que nunca es inmediato), por esta situación existen listas de electores habilitados/as con personas fallecidas en ellas."
       },
       "item2": {
         "titulo": "(ay)¿Hay algún porcentaje mínimo de asistencia para una elección?",
-        "descripcion": "(ay)Respuesta 2"
+        "descripcion": "Respuesta 2"
       },
       "item3": {
         "titulo": "(ay)¿Qué sucede si no emito mi voto a pesar de estar habilitado?",
-        "descripcion": "(ay)Respuesta 3"
+        "descripcion": "Respuesta 3"
       }
     }
   },

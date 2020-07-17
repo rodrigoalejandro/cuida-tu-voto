@@ -1,7 +1,7 @@
 <template>
   <div>
     <div :class="{ 'Token--fixed': stick }">
-      <Social :title="$t(`categorias.${section}.meta.descripcion`)" :show="false" />
+      <Social :title="$t(`categorias.${section}.titulo`)" :show="false" />
       <div class="container grid-lg Category">
         <h2 class="Category--title">
           {{ $t(`categorias.${section}.titulo`) }}
@@ -11,7 +11,7 @@
         </p>
       </div>
     </div>
-    <div class="container grid-lg">
+    <div v-if="category" class="container grid-lg">
       <div class="Category">
         <div class="columns">
           <div
@@ -55,11 +55,11 @@ export default {
     return {
       title: this.meta.title,
       meta: [
-        // { hid: 'description', name: 'description', content: this.meta.description },
+        { hid: 'description', name: 'description', content: this.meta.description },
         { hid: 'image', name: 'image', content: this.meta.image },
         { hid: 'url', name: 'url', content: this.meta.url },
         { property: 'og:title', content: this.meta.title },
-        // { property: 'og:description', content: this.meta.description },
+        { property: 'og:description', content: this.meta.description },
         { property: 'og:image', content: this.meta.image },
         { property: 'og:url', content: this.meta.url },
         { property: 'og:site_name', content: process.env.baseUrl },
@@ -82,9 +82,12 @@ export default {
   },
   computed: {
     category () {
-      const categoria = JSON.parse(JSON.stringify(this.$store.getters['categories/get'][this.section]))
-      for (const key in categoria.items) {
-        categoria.items[key].imagenUrl = require(`~/assets/images/categorias/${categoria.items[key].imagen}`)
+      let categoria = null
+      if (this.$store.getters['categories/get'][this.section]) {
+        categoria = JSON.parse(JSON.stringify(this.$store.getters['categories/get'][this.section]))
+        for (const key in categoria.items) {
+          categoria.items[key].imagenUrl = require(`~/assets/images/categorias/${categoria.items[key].imagen}`)
+        }
       }
 
       return categoria
@@ -107,8 +110,10 @@ export default {
     setMeta () {
       this.meta.title = this.$t('titulo')
       this.meta.description = this.$t(`categorias.${this.section}.titulo`)
-      this.meta.image = process.env.baseUrl + this.category.items.item1.imagenUrl
       this.meta.url = process.env.baseUrl + this.$route.fullPath
+      if (this.category) {
+        this.meta.image = process.env.baseUrl + this.category.items.item1.imagenUrl
+      }
     },
     handleScroll () {
       this.stick = window.scrollY > 40

@@ -1,7 +1,7 @@
 <template>
   <div class="Token--container">
     <div :class="{ 'Token--fixed': stick }">
-      <Social :title="$t(`categorias.${section}.meta.descripcion`)" :back="`/${section}`" />
+      <Social :title="`${$t('todo')} ${$t(`categorias.${section}.items.${token.key}.titulo`).toLowerCase()}`" :back="`/${section}`" />
       <div class="container grid-lg Category">
         <h2 class="Category--title">
           {{ $t(`categorias.${section}.items.${token.key}.titulo`) }}
@@ -128,21 +128,23 @@ export default {
   },
   computed: {
     token () {
-      const items = JSON.parse(JSON.stringify(this.$store.getters['categories/get'][this.section].items))
-      for (const key in items) {
-        if (items[key].enlace === this.subsection) {
-          const keys = Object.keys(items[key].fichas)
-          for (const k in items[key].fichas) {
-            items[key].fichas[k].animateIn = ''
-            items[key].fichas[k].animateOut = ''
-            items[key].fichas[k].imagenUrl = require(`~/assets/images/categorias/${items[key].fichas[k].imagen}`)
-          }
-          return {
-            key,
-            first: keys[0],
-            last: keys[keys.length - 1],
-            ...items[key],
-            length: keys.length
+      if (this.$store.getters['categories/get'][this.section]) {
+        const items = JSON.parse(JSON.stringify(this.$store.getters['categories/get'][this.section].items))
+        for (const key in items) {
+          if (items[key].enlace === this.subsection) {
+            const keys = Object.keys(items[key].fichas)
+            for (const k in items[key].fichas) {
+              items[key].fichas[k].animateIn = ''
+              items[key].fichas[k].animateOut = ''
+              items[key].fichas[k].imagenUrl = require(`~/assets/images/categorias/${items[key].fichas[k].imagen}`)
+            }
+            return {
+              key,
+              first: keys[0],
+              last: keys[keys.length - 1],
+              ...items[key],
+              length: keys.length
+            }
           }
         }
       }
@@ -150,7 +152,7 @@ export default {
     }
   },
   created () {
-    if (!this.$store.getters['categories/get'][this.section]) {
+    if (!this.$store.getters['categories/get'][this.section] || Object.keys(this.token).length === 0) {
       this.$nuxt.error({ statusCode: 404 })
     }
     if (process.browser) {
@@ -215,10 +217,12 @@ export default {
       this.setToken(`item${number}`, key, 'animate__slideInRight')
     },
     setMeta () {
-      this.meta.title = this.$t('titulo')
-      this.meta.description = this.$t(`categorias.${this.section}.items.${this.token.key}.fichas.item1.titulo`)
-      this.meta.image = process.env.baseUrl + this.token.fichas.item1.imagenUrl
-      this.meta.url = process.env.baseUrl + this.$route.fullPath
+      if (this.token && this.token.fichas) {
+        this.meta.title = this.$t('titulo')
+        this.meta.description = this.$t(`categorias.${this.section}.items.${this.token.key}.fichas.item1.titulo`)
+        this.meta.image = process.env.baseUrl + this.token.fichas.item1.imagenUrl
+        this.meta.url = process.env.baseUrl + this.$route.fullPath
+      }
     }
   }
 }
