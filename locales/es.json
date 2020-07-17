@@ -9,6 +9,9 @@
         "titulo": "Aprende más sobre las elecciones",
         "enlace": "aprende"
       },
+      "meta": {
+        "descripcion": "Todo lo que necesitas saber sobre los electores"
+      },
       "items": {
         "item1": {
           "imagen": "elector.png",
@@ -77,6 +80,9 @@
       "botonMas": {
         "titulo": "Conoce a los protagonistas de las elecciones",
         "enlace": "protagonistas"
+      },
+      "meta": {
+        "descripcion": "Aquí, todo lo que debes conocer del proceso electoral"
       },
       "items": {
         "item1": {
@@ -150,6 +156,9 @@
   },
   "protocolos": {
     "titulo": "Protocolos de bioseguridad",
+    "meta": {
+      "descripcion": "Aquí, todo lo que debes conocer de los Protocolos de bioseguridad"
+    },
     "items": {
       "item1": {
         "titulo": "Protocolos para salir de casa",
@@ -167,6 +176,9 @@
   },
   "preguntas": {
     "titulo": "Preguntas frecuentes",
+    "meta": {
+      "descripcion": "Aquí, todas las Preguntas frecuentes del proceso electoral"
+    },
     "items": {
       "item1": {
         "titulo": "¿Por qué hay personas fallecidas habilitadas para votar?",

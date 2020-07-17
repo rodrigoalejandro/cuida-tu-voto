@@ -1,7 +1,7 @@
 <template>
   <div>
     <div :class="{ 'Token--fixed': stick }">
-      <Social :title="$t(`categorias.${section}.titulo`)" :show="false" />
+      <Social :title="$t(`categorias.${section}.meta.descripcion`)" :show="false" />
       <div class="container grid-lg Category">
         <h2 class="Category--title">
           {{ $t(`categorias.${section}.titulo`) }}
@@ -55,11 +55,11 @@ export default {
     return {
       title: this.meta.title,
       meta: [
-        { hid: 'description', name: 'description', content: this.meta.description },
+        // { hid: 'description', name: 'description', content: this.meta.description },
         { hid: 'image', name: 'image', content: this.meta.image },
         { hid: 'url', name: 'url', content: this.meta.url },
         { property: 'og:title', content: this.meta.title },
-        { property: 'og:description', content: this.meta.description },
+        // { property: 'og:description', content: this.meta.description },
         { property: 'og:image', content: this.meta.image },
         { property: 'og:url', content: this.meta.url },
         { property: 'og:site_name', content: process.env.baseUrl },

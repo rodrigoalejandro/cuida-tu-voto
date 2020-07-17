@@ -1,7 +1,7 @@
 <template>
   <div :class="`${section}--container`">
     <div :class="{ 'Token--fixed': stick }">
-      <Social :title="$t(`${section}.titulo`)" />
+      <Social :title="$t(`${section}.meta.descripcion`)" />
       <div class="container grid-lg Category">
         <h2 class="Category--title">
           {{ $t(`${section}.titulo`) }}
@@ -67,10 +67,10 @@ export default {
     return {
       title: this.meta.title,
       meta: [
-        { hid: 'description', name: 'description', content: this.meta.description },
+        // { hid: 'description', name: 'description', content: this.meta.description },
         { hid: 'url', name: 'url', content: this.meta.url },
         { property: 'og:title', content: this.meta.title },
-        { property: 'og:description', content: this.meta.description },
+        // { property: 'og:description', content: this.meta.description },
         { property: 'og:url', content: this.meta.url },
         { property: 'og:site_name', content: process.env.baseUrl },
         { name: 'twitter:image:alt', content: this.meta.title },
