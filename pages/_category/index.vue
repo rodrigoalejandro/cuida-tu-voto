@@ -62,6 +62,7 @@ export default {
         { property: 'og:description', content: this.meta.description },
         { property: 'og:image', content: this.meta.image },
         { property: 'og:url', content: this.meta.url },
+        { property: 'og:type', content: 'article' },
         { property: 'og:site_name', content: process.env.baseUrl },
         { name: 'twitter:image:alt', content: this.meta.title },
         { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' }
