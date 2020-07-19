@@ -237,3 +237,39 @@ nginx -t
 # Reiniciando nginx
 systemctl reload nginx.service
 ```
+
+## Actualizar cambios
+
+Modificar el o los archivos luego seguir los siguientes pasos:
+
+```sh
+# Agregar archivos modificados en la máquina local
+git add .
+
+# Crear commit
+git commit -m "mensaje del commit"
+
+# git ver si existe cambios nuevos
+git pull
+
+# Subir los cambios al repositorio
+git push
+
+# Ingresar al servidor
+ssh ramon@181.115.129.178
+
+# Cambiar usuario root
+sudo su -
+
+# Ingresar a la carpeta del repositorio
+cd /var/www/cuida-tu-voto
+
+# Bajar cambios del repositorio en el servidor
+git pull
+
+# Construir archivos
+npm run build
+
+# Actualizar los cambios
+pm2 restart 0
+```
