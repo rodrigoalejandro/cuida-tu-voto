@@ -10,8 +10,17 @@
     <a v-else-if="show" class="btn btn-link" href="javascript:window.history.back()">
       <i class="icon icon-back" /> {{ $t('inicio') }}
     </a>
-    <span v-else>&nbsp;</span>
-    <ul class="Social-list">
+    <nuxt-link
+      v-else
+      :to="localePath('/acerca-de')"
+      class="btn btn-link"
+    >
+      <i class="avatar avatar-sm info">i</i> {{ $t('acerca-de.titulo') }}
+    </nuxt-link>
+    <ul
+      v-if="shared"
+      class="Social-list"
+    >
       <li v-for="item in networks" :key="item">
         <ShareNetwork
           :network="item"
@@ -37,6 +46,10 @@ export default {
       default: ''
     },
     show: {
+      type: Boolean,
+      default: true
+    },
+    shared: {
       type: Boolean,
       default: true
     },
@@ -67,6 +80,11 @@ export default {
   & > .btn {
     margin-top: 10px;
     font-size: .8rem;
+  }
+
+  .avatar.avatar-sm.info {
+    line-height: 1.3rem;
+    font-weight: bold;
   }
 }
 .Social-list {

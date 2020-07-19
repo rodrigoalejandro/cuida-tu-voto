@@ -7,7 +7,7 @@
           {{ $t(`categorias.${section}.titulo`) }}
         </h2>
         <p class="Category--subtitle">
-          {{ $t('elegir') }}
+          {{ $t(`categorias.${section}.subtitulo`) }}
         </p>
       </div>
     </div>
@@ -64,7 +64,7 @@ export default {
         { property: 'og:url', content: this.meta.url },
         { property: 'og:type', content: 'article' },
         { property: 'og:site_name', content: process.env.baseUrl },
-        { property: 'fb:app_id', content: '1182713085422915' },
+        // { property: 'fb:app_id', content: '1182713085422915' },
         { name: 'twitter:image:alt', content: this.meta.title },
         { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' }
       ]

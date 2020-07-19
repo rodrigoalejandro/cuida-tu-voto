@@ -1,11 +1,11 @@
 {
   "titulo": "(ay)Cuida tu voto Bolivia",
-  "elegir": "Elige un perfil",
   "inicio": "Regresar",
   "todo": "Todo lo que necesitas saber sobre",
   "categorias": {
     "protagonistas": {
       "titulo": "(ay)Protagonistas de las elecciones",
+      "subtitulo": "Elige un perfil",
       "botonMas": {
         "titulo": "(ay)Aprende más sobre las elecciones",
         "enlace": "aprende-mas"
@@ -77,6 +77,7 @@
     },
     "aprende-mas": {
       "titulo": "(ay)Aprende más sobre las elecciones",
+      "subtitulo": "Elige un perfil",
       "botonMas": {
         "titulo": "(ay)Conoce a los protagonistas de las elecciones",
         "enlace": "protagonistas"
@@ -183,6 +184,15 @@
         "titulo": "(ay)¿Qué sucede si no emito mi voto a pesar de estar habilitado?",
         "descripcion": "Respuesta 3"
       }
+    }
+  },
+  "acerca-de": {
+    "titulo": "(ay)Acerca de",
+    "descripcion": "Cuida tu voto Bolivia es una página que te dice todo lo que necesitas saber de las elecciones generales 2020 para que puedas participar de forma segura, cuidando tu voto y tu salud.{0}Nuestras fuentes son la Constitución Política del Estado, la Ley 018 del Órgano Electoral, la Ley 026 del régimen electoral, los reglamentos de las elecciones y las publicaciones oficiales del OEP.{0}Esta página está en continua actualización, si crees que hay contenidos que deberíamos agregar puedes escribirnos a nuestras redes sociales.",
+    "redes": {
+      "facebook": "cuida-tu-voto",
+      "twitter": "cuida-tu-voto",
+      "email": "cuidatuvotobolivia@tutanota.com"
     }
   },
   "error": {
