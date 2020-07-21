@@ -4,22 +4,22 @@
   "todo": "Todo lo que necesitas saber sobre",
   "categorias": {
     "protagonistas": {
-      "titulo": "Protagonistas de las elecciones",
-      "subtitulo": "Elige un perfil",
+      "titulo": "Elecciones 2020",
+      "subtitulo": "Conoce a sus protagonistas:",
       "botonMas": {
-        "titulo": "Aprende más sobre las elecciones",
+        "titulo": "Clic aquí para aprender más",
         "enlace": "aprende-mas"
       },
       "items": {
         "item1": {
           "imagen": "elector.png",
-          "titulo": "Elector/a",
+          "titulo": "Electores",
           "enlace": "elector",
           "fichas": {
             "item1": {
-              "titulo": "Conoce el rol de los/as electores/as",
+              "titulo": "¿Quienes son los/as electores?",
               "imagen": "ficha3-elector.png",
-              "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
+              "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, residentes en territorio nacional o extranjero, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
             },
             "item2": {
               "titulo": "Verifica si estas habilitado/a para votar",
@@ -43,7 +43,7 @@
         },
         "item2": {
           "imagen": "jurado.png",
-          "titulo": "Jurado/a electoral",
+          "titulo": "Jurados electorales",
           "enlace": "jurado-electoral",
           "fichas": {
             "item1": {
@@ -76,16 +76,16 @@
       }
     },
     "aprende-mas": {
-      "titulo": "Aprende más sobre las elecciones",
-      "subtitulo": "Elige un perfil",
+      "titulo": "Elecciones 2020",
+      "subtitulo": "Aprende sobre un tema de tu interés:",
       "botonMas": {
-        "titulo": "Conoce a los protagonistas de las elecciones",
+        "titulo": "Clic aquí para conocer a los protagonistas",
         "enlace": "protagonistas"
       },
       "items": {
         "item1": {
           "imagen": "proceso-electoral3.png",
-          "titulo": "Proceso electoral",
+          "titulo": "De todo un poco",
           "enlace": "proceso-electoral",
           "fichas": {
             "item1": {
@@ -153,7 +153,7 @@
     }
   },
   "protocolos": {
-    "titulo": "Protocolos de bioseguridad",
+    "titulo": "Elecciones en pandemia",
     "items": {
       "item1": {
         "titulo": "Protocolos para salir de casa",
@@ -187,8 +187,8 @@
     }
   },
   "acerca-de": {
-    "titulo": "Acerca de",
-    "descripcion": "Cuida tu voto Bolivia es una página que te dice todo lo que necesitas saber de las elecciones generales 2020 para que puedas participar de forma segura, cuidando tu voto y tu salud.{0}Nuestras fuentes son la Constitución Política del Estado, la Ley 018 del Órgano Electoral, la Ley 026 del régimen electoral, los reglamentos de las elecciones y las publicaciones oficiales del OEP.{0}Esta página está en continua actualización, si crees que hay contenidos que deberíamos agregar puedes escribirnos a nuestras redes sociales.",
+    "titulo": "Acerca de este sitio",
+    "descripcion": "Cuida tu voto Bolivia es una página que te informa sobre todo lo que necesitas saber de las elecciones generales 2020 para que puedas participar de forma segura, cuidando tu voto y tu salud.{0}Nuestras fuentes son la Constitución Política del Estado, la Ley 018 del Órgano Electoral, la Ley 026 del régimen electoral, los reglamentos de las elecciones y las publicaciones oficiales del OEP.{0}Esta página está en continua actualización, si crees que hay contenidos que deberíamos agregar puedes escribirnos a nuestras redes sociales.",
     "redes": {
       "facebook": "cuida-tu-voto",
       "twitter": "cuida-tu-voto",
