@@ -5,7 +5,7 @@
   "categorias": {
     "protagonistas": {
       "titulo": "Elecciones 2020",
-      "subtitulo": "Conoce a sus protagonistas:",
+      "subtitulo": "Conoce a sus protagonistas",
       "botonMas": {
         "titulo": "Clic aquí para aprender más",
         "enlace": "aprende-mas"
@@ -18,26 +18,59 @@
           "fichas": {
             "item1": {
               "titulo": "¿Quienes son los/as electores?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-elector.png",
               "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, residentes en territorio nacional o extranjero, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
             },
             "item2": {
-              "titulo": "Verifica si estas habilitado/a para votar",
+              "titulo": "¿Debo estar inscrito/a para poder votar?",
               "imagen": "ficha2-elector.png",
-              "descripcion": "Para poder votar debes estar registrado en el padrón electoral y no tener observaciones en tu registro que sean causa de inhabilitación.{0}Si estás empadronado, debes ingresar a {1} y verificar si no tienes observaciones y estás habilitado/a para votar. Si estuvieras inhabilitado/a puedes descargar, llenar y enviar tu formulario de reclamo desde ese mismo portal hasta el 28 de julio.{0}Si no estás empadronado y cumples 18 años hasta el 6 de septiembre, aún te puedes inscribir y votar en las elecciones 2020. Debes ir a un punto de empadronamiento hasta el 17 de julio portando tu documento de identidad. Los puntos habilitados por el OEP se detallan en {2}",
-              "link": {
-                "texto": "https://yoparticipo.oep.org.bo/",
-                "url": "https://yoparticipo.oep.org.bo/"
-              },
-              "link2": {
-                "texto": "https://www.oep.org.bo/empadronamiento-elecciones-generales-2020/",
-                "url": "https://www.oep.org.bo/empadronamiento-elecciones-generales-2020/"
-              }
+              "descripcion": "Para participar en las elecciones y votar debes estar inscrito/a en el padrón electoral. En base al domicilio registrado en el padrón, el OEP nos asigna una circunscripción, recinto y mesa de votación. Todo/as nos debemos empadronar por única vez cuando cumplimos 18 años y actualizar este registro en caso de cambiar de domicilio. {0} Para las elecciones 2020 la actualización de domicilios en el padrón concluyó el 26 de enero, y el empadronamiento de nuevos/as electores/as que cumplan 18 años hasta el día de la votación concluyó el 17 de julio."
             },
             "item3": {
-              "titulo": "Descubre la importancia de tu participación y voto",
+              "titulo": "¿Cómo sé si estoy habilitado/a para votar?",
               "imagen": "ficha3-elector.png",
-              "descripcion": "Descripción"
+              "descripcion": "Para poder votar debes estar empadronado/a y además no debes tener observaciones en tu registro que sean causa de inhabilitación. Documentos de identidad observados, inasistencia a procesos electorales anteriores, pérdida de nacionalidad, entre otras, son causas de inhabilitación.{0} Si estás empadronado/a, debes hacer clic {1}, ingresar tu número de documento y fecha de nacimiento, y verificar si estás habilitado/a para votar en las elecciones 2020. Si estuvieras inhabilitado/a puedes descargar, llenar y enviar tu formulario de reclamo desde ese mismo portal hasta el 28 de julio.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://yoparticipo.oep.org.bo/"
+              }
+            },
+            "item4": {
+              "titulo": "¿Cómo averiguo mi recinto y mesa de sufragio?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El recinto electoral es el colegio, edificio o instalación a la que debes ir a votar, asignado a ti por ser próximo al domicilio que tienes registrado en el padrón electoral. En cada recinto los/as electores se distribuyen por orden alfabético en mesas de sufragio debidamente señalizadas.{0} Debido a la pandemia, en las elecciones 2020 se incrementará el número de recintos y mesas de sufragio para evitar concentraciones de electores; es recomendable que la última semana antes de la elección verifiques {1} el recinto y mesa que te tocaron.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://yoparticipo.oep.org.bo/"
+              }
+            },
+            "item5": {
+              "titulo": "¿Cómo me preparo para votar?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El día de la elección:{0} a. Antes de salir de casa, lleva contigo barbijo, guantes, alcohol en gel, tu documento de identidad, un bolígrafo y los implementos que creas necesarios.{0} b. Sal de casa y acude directamente a tu recinto entre las 08:00 y 16:00; una vez ahí, dirígete a tu mesa de sufragio. Si hubiera fila para votar, asegurate de mantener al menos un metro y medio de distancia con quienes están en espera; no saludes ni converses si no es necesario.{0} c. Cuando sea tu turno, entrega tu documento de identidad al jurado de tu mesa y verifica que la papeleta que te entregue este en blanco."
+            },
+            "item6": {
+              "titulo": "¿Qué pasos debo seguir para votar?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Una vez los/as jurados/as te hayan entregado la papeleta de sufragio en blanco:{0} a. Ingresa solo/a a la cabina o espacio reservado para votar.{0} b. Abre la papeleta y usa tu bolígrafo para emitir tu voto.{0} c. Dobla la papeleta y deposítala en el ánfora de la mesa.{0} Recuerda que tu voto es válido si marcas la casilla de un/a candidato/a con una x o check, es blanco cuando dejas sin marcar todas las casillas o nulo cuando rayas fuera de las casillas.{0} Sólo las personas con necesidades particulares pueden ingresar acompañadas por un/a familiar o jurado/a a la cabina o espacio reservado para emitir su voto."
+            },
+            "item7": {
+              "titulo": "¿Qué hago después de votar?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Después de depositar la papeleta de sufragio en el ánfora:{0} a. Firma e imprime tu huella en la lista electoral de tu mesa.{0} b. Recoge tu documento de identidad, tu certificado de sufragio, y retírate a casa inmediatamente. Debido a la pandemia no podrás quedarte a presenciar el conteo de votos de tu mesa.{0} c. En tu retorno, desecha tus guantes y bolígrafo en un basurero y desinfecta tus manos con alcohol en gel.{0} Recuerda, necesitarás tu certificado de sufragio para efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte por 90 días después de la elección."
+            },
+            "item8": {
+              "titulo": "¿Cómo puedo cuidar mi voto?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Los resultados de la elección son públicos y tienes derecho de conocerlos, verificarlos y controlarlos mediante los mecanismos habilitados por el OEP en su {1}.{0} Concluida la votación, las actas electorales de las mesas de sufragio serán escaneadas y publicadas paulatinamente en ese {2}; si deseas puedes descargar las actas, verificar la sumatoria de sus votos y cruzar esta información con la dispongas o hayas capturado por tu cuenta.",
+              "link": {
+                "texto": "página web",
+                "url": "https://www.oep.org.bo/"
+              },
+              "link2": {
+                "texto": "portal",
+                "url": "https://www.oep.org.bo/"
+              }
             }
           }
         },
@@ -47,19 +80,88 @@
           "enlace": "jurado-electoral",
           "fichas": {
             "item1": {
-              "titulo": "",
+              "titulo": "¿Quienes son los/as jurados/as?",
               "imagen": "ficha3-elector.png",
-              "descripcion": ""
+              "descripcion": "Los/as jurados/as electorales son actores centrales en las elecciones. Como parte y representantes de la sociedad civil son la máxima autoridad en las mesas de sufragio; con su participación se garantiza la transparencia de la elección y el respeto a la voluntad popular.{0} Cada mesa de sufragio tiene 3 jurados/as titulares (incluido/a 1 presidente/a) y 3 suplentes que la administran desde su inicio hasta el computo de sus votos; todos/as jurados/as son electores/as en su misma mesa. Una mesa debe tener al menos 3 jurados/as presentes para poder funcionar.{0} Conoce todo lo que necesitas saber de los jurados/as electorales en este recorrido."
+            },
+            "item2": {
+              "titulo": "¿Cómo se eligen a los/as jurados/as?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Los/as jurados/as electorales son seleccionados/as por sorteo entre las personas inscritas en el padrón electoral habilitadas para votar.{0} Los Tribunales Electorales Departamentales son los encargados de realizar el sorteo de jurados/as electorales en actos públicos, contando con la presencia de delegados/as de las organizaciones políticas y otras instancias de control social.{0} Los sorteos para designación de jurados/as electorales para las elecciones 2020 se realizarán el 7 de agosto después del periodo de empadronamiento."
+            },
+            "item3": {
+              "titulo": "¿Cómo averiguo si fui elegido/a jurado/a?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Todas las personas que fueron designadas jurados/as electorales serán notificadas en sus domicilios. Para las elecciones 2020 una vez se realice el sorteo de jurados/as el 7 de agosto, también podrás verificar si fuiste elegido/a jurado/a desde {1}, ingresando tu documento de identidad y fecha de nacimiento.{0} Si somos designados/as jurados/as electorales asumimos un deber importante con la comunidad: cuidar el voto y la salud de todos/as.{0} Sólo si hubieras sido designado/a jurado/a y fueras candidato/a acreditado/a, estuvieras embarazada, o tuvieras una enfermedad certificada que te impidiera cumplir esta obligación, podrás tramitar ante tu tribunal departamental y hasta el 16 de agosto una excusa documentada para evitar esta labor.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://yoparticipo.oep.org.bo/"
+              }
+            },
+            "item4": {
+              "titulo": "¿Seré capacitado/a para ser jurado/a?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Si fuiste designado/a jurado/a electoral, serás capacitado/a por personal del OEP sobre tus funciones y los protocolos de bioseguridad que debes aplicar en la jornada electoral. Para las elecciones 2020, las capacitaciones de jurados/as se desarrollarán a partir del 10 de agosto y posiblemente vía virtual.{0} Aprovecha estas capacitaciones para tomar nota de los protocolos de bioseguridad que deberás aplicar, conocer a los/as otros/as jurados/as que te acompañarán y elegir al jurado/a presidente/a de tu mesa.{0} A continuación, te explicamos tus funciones como jurado/a al inicio, durante y al finalizar el proceso de votación en tu mesa de sufragio."
+            },
+            "item5": {
+              "titulo": "¿Cómo me preparo para la jornada electoral?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El día de la elección:{0} a. Antes de salir de casa, viste y porta barbijos, guantes, alcohol en gel, tu documento de identidad, bolígrafos y los implementos que creas necesarios. Es recomendable que lleves pares adicionales de barbijos, guantes, etc como repuesto.{0} b. El/la notario/a de tu recinto te entregará un monto para cubrir tu refrigerio, sin embargo es recomendable que lleves preparada una merienda y evites comprar otros alimentos.{0} c. Acude a tu recinto a las 06:00, al igual que los otros/as jurados/as de tu mesa."
+            },
+            "item6": {
+              "titulo": "¿Cómo instalar la mesa de sufragio?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Para abrir la mesa de sufragio:{0} a. El/la presidente/a de mesa deberá recibir del/la notario/a electoral del recinto la maleta electoral, con todos los materiales para que la mesa funcione y un kit de bioseguridad, con los implementos para la protección de jurados/as y electores/as.{0} b. Los/as otros/as jurados/as, deberán alistar la señalización, lista electoral, ánfora y papeletas de sufragio de la mesa.{0} c. El/la jurado/a secretario/a deberá llenar los datos de apertura de mesa en el acta electoral.{0} d. La votación en la mesa deberá iniciar a las 08:00 con la presencia de al menos 3 jurados/as. Si hasta las 9:00 no se presentan los/as jurados/as suficientes, el/la notario/a de recinto nombrará otros/as entre los/as electores presentes en la mesa."
+            },
+            "item7": {
+              "titulo": "¿Cómo administrar la votación?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Durante el proceso de votación: {0} a. Un/a jurado/a debe recibir los documentos de identidad de los/as electores/as, verificar su identidad y registro en la lista de habilitados/as de la mesa, hacerles firmar e imprimir su huella en ella, y controlar que porten barbijo y se desinfecten las manos antes de votar.{0} b. Otro/a jurado/a debe desdoblar las papeletas de sufragio, mostrar que están en blanco, entregarlas a los/as electores/as y controlar que las depositen en el ánfora una vez emitan su voto.{0} c. El/la jurado/a presidente/a debe recortar, firmar y entregar los certificados de sufragio a los/as electores asistentes después de emitir su voto y controlar que se desinfecten las manos al retirarse.{0} d. Finalmente, otro/a jurado/a puede controlar que se cumplan todos los protocolos de bioseguridad en la votación.{0} A las 16:00 se deberá cerrar la votación en la mesa. Si aún hubiesen electores/as presentes en espera, se les deberá permitir votar antes de cerrar."
+            },
+            "item8": {
+              "titulo": "¿Cómo realizar el escrutinio de votos?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El escrutinio de votos de la mesa se deberá desarrollar de forma pública, con la presencia de los/as delegados/as de organizaciones políticas disponibles en el recinto cumpliendo estos pasos:{0} a. Abierta el ánfora, un/a jurado/a deberá sacar, desdoblar y mostrar cada papeleta y decir en voz alta a favor de quien se emitió el voto para presidente/a y para diputado/a.{0} b. Un/a segundo/a jurado deberá ir anotando en una hoja de trabajo los votos que reciban las candidaturas, dictados por su compañero/a.{0} c. Otro jurado/a deberá recibir y guardar las papeletas ya revisadas."
+            },
+            "item9": {
+              "titulo": "¿Cómo llenar el acta electoral?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Después del escrutinio, los resultados de la votación deben registrarse en el acta electoral de la mesa, que deberá ser firmada por todos/as los/as jurados/as presentes, mínimamente 3. Si se cometieran errores de llenado, estos deberán ser aclarados en la casilla de observaciones del acta.{0} Finalmente se deberán guardar los materiales y útiles electorales en los sobres de seguridad respectivos que el/la presidente/a deberá entregar al/la notario/a del recinto."
             }
           }
         },
         "item3": {
           "imagen": "partidos-politicos.png",
-          "titulo": "Partidos políticos",
+          "titulo": "Organizaciones políticas",
           "enlace": "partidos-politicos",
           "fichas": {
             "item1": {
-              "titulo": ""
+              "titulo": "¿Qué es una organización política?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Una organización política es un partido, agrupación ciudadana u organización indígena originaria, con personalidad jurídica otorgada por el OEP, creada para ejercer la representación de los/as bolivianos/as en el gobierno por decisión de la voluntad popular.{0} A través de la votación por candidaturas de las organizaciones y la elección de presidentes/as, vicepresidentes/as y asambleístas, se ejerce la democracia representativa.{0} A continuación, todo lo que debes conocer sobre la participación y rol de las organizaciones políticas en las elecciones."
+            },
+            "item2": {
+              "titulo": "¿Cómo se definen las candidaturas?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Las organizaciones políticas deben desarrollar una vida orgánica propia y definir a sus candidatos/as con la participación de sus militantes inscritos/as en el OEP. Para postular en las elecciones, las organizaciones deben inscribir sus listas de candidatos/as ante el Tribunal Supremo Electoral de acuerdo a calendario.{0} Por equidad, en estas listas debe existir alternancia de género; por representatividad, sus candidatos/as a la presidencia y vicepresidencia deben haber residido en el país por al menos 5 años antes de la elección y sus candidatos/as a asambleístas al menos 2 años en su circunscripción. Las listas de candidatos/as para las elecciones 2020 las encuentras {1}.{0} En las elecciones, las organizaciones políticas que superan el 3% de los votos válidos, obtienen una cantidad de asambleístas (senadores/as y diputados/as) proporcional a su votación nacional.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://www.oep.org.bo/elecciones-generales-2020/organizaciones-politicas/"
+              }
+            },
+            "item3": {
+              "titulo": "¿Cómo conocer las propuestas de las organizaciones?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Para emitir un voto informado, todos/as tenemos derecho a conocer a los/as candidatos/as y las propuestas de las organizaciones políticas. Los programas de gobierno propuestos por las organizaciones rumbo a las elecciones 2020 los encuentras {1}.{0} Las organizaciones también pueden difundir sus propuestas mediante los medios de comunicación; los medios estatales deberán brindar a las organizaciones espacios de difusión gratuitos y equitativos.{0} Para las elecciones 2020, la campaña electoral se desarrollará del 7 de agosto al 3 de septiembre, las organizaciones deberán utilizar únicamente medios electrónicos para difundir sus propuestas, no podrán realizar concentraciones, ni recibirán apoyo económico del Tribunal Supremo Electoral para esta labor.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://www.oep.org.bo/elecciones-generales-2020/programas-de-gobierno/"
+              }
+            },
+            "item4": {
+              "titulo": "¿Qué función cumplen los/as delegados/as políticos/as?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Los/as delegados/as políticos/as, inscritos/as en el OEP, son representantes oficiales de las organizaciones políticas en actos y gestiones del proceso electoral. Las organizaciones designan delegados/as políticos para presenciar:{0} a. El sorteo de franjas en la papeleta de sufragio.{0} b. El sorteo de jurados/as electorales.{0} c. La votación, escrutinio y cómputo de votos en mesas de sufragio el día de la elección.{0} d. El cómputo departamental de actas y resultados electorales.{0} e. El cómputo nacional de resultados electorales finales.{0} f. La proclamación de resultados electorales finales.{0} En cada acto los/as delegados/as, identificados/as con una credencial, tienen la libertad de controlar el cumplimiento de las reglas de juego, obtener copias de actas y denunciar hechos que consideren afectan a su organización."
             }
           }
         },
@@ -69,7 +171,28 @@
           "enlace": "oep",
           "fichas": {
             "item1": {
-              "titulo": ""
+              "titulo": "¿Qué es el Órgano Electoral Plurinacional?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El Órgano Electoral Plurinacional (OEP), es el órgano del estado encargado de administrar las elecciones, referendos y revocatorias de mandato desarrolladas en el país, en el marco de la democracia participativa, representativa y comunitaria.{0} El OEP está compuesto por el Tribunal Supremo Electoral, los Tribunales Electorales Departamentales, notarios/as electorales, otras unidades funcionales y en periodos de elecciones, por los jurados/as electorales. El organigrama del OEP lo puedes consultar {1}.{0} A continuación te explicamos el papel y funciones de estas instituciones en el desarrollo de elecciones.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://www.oep.org.bo/institucional/organigrama-del-oep/"
+              }
+            },
+            "item2": {
+              "titulo": "¿Qué funciones cumple el Tribunal Supremo Electoral?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El Tribunal Supremo Electoral (TSE) es la máxima autoridad del OEP, está conformado por 7 vocales (incluido/a 1 presidente) y sus competencias tienen alcance nacional.{0} El TSE tiene como función principal organizar, dirigir, supervisar, administrar y ejecutar procesos electorales, referendos y revocatorias de mandato de nacionales, departamentales, regionales y municipales.{0} De esta función se desprenden sus competencias más operativas, como efectuar convocatorias, aprobar y dar cumplimiento a calendarios electorales, realizar el cómputo final y proclamar los resultados electorales oficiales de procesos de alcance nacional, entre otros."
+            },
+            "item3": {
+              "titulo": "¿Qué funciones cumplen los Tribunales Electorales Departamentales?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Los Tribunales Electorales Departamentales (TED) son la máxima autoridad del OEP a nivel departamental, están conformados por 5 vocales y sus competencias tienen alcance únicamente en su departamento bajo directrices del Tribunal Supremo Electoral. En Bolivia existen 9 TED, uno por departamento.{0} Los tribunales departamentales tienen como función principal administrar y ejecutar procesos electorales, referendos y revocatorias bajo la organización, dirección y supervisión del Tribunal Supremo Electoral.{0} En procesos electorales de alcance nacional, los TED son brazos operativos encargados de administrar el material electoral, dirigir a los/as notarios/as electorales y efectuar el cómputo departamental de los resultados para su envío y consolidación en el Tribunal Supremo Electoral, entre otros."
+            },
+            "item4": {
+              "titulo": "¿Qué funciones cumplen los/as notarios/as electorales?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "Los/as notarios/as electorales son autoridades designadas por los Tribunales Electorales Departamentales y el Tribunal Supremo Electoral para asesorar, supervisar, brindar apoyo logístico y dar fe de los actos desarrollados durante la jornada electoral en los recintos de votación.{0} En este sentido, algunas de sus funciones son recibir, custodiar y entregar el material electoral a los Tribunales Departamentales Electorales y jurados/as electorales, orientar y atender requerimientos y reclamos de los/as electores durante la jornada de votación, entre otros."
             }
           }
         }
@@ -77,7 +200,7 @@
     },
     "aprende-mas": {
       "titulo": "Elecciones 2020",
-      "subtitulo": "Aprende sobre un tema de tu interés:",
+      "subtitulo": "Aprende sobre un tema de tu interés",
       "botonMas": {
         "titulo": "Clic aquí para conocer a los protagonistas",
         "enlace": "protagonistas"
@@ -89,33 +212,44 @@
           "enlace": "proceso-electoral",
           "fichas": {
             "item1": {
-              "titulo": "Aprende más sobre el padrón electoral",
+              "titulo": "¿Qué es el padrón electoral?",
               "imagen": "ficha1-elector.png",
-              "descripcion": "El padrón electoral es el registro biométrico de todos/as los bolivianos/as en edad de votar (mayores a 18 años). En base a la información registrada en el padrón y su proximidad a nuestro domicilio, el OEP nos asigna una circunscripción, recinto y mesa de votación.{0}El padrón electoral se actualiza continuamente debido al empadronamiento de nuevos electores, la actualización del domicilio de los inscritos y la depuración de fallecidos/as. Estas operaciones, ejecutadas a solicitud de los/ interesados/as, no son automáticas ni inmediatas.{0}El padrón electoral se encuentra sujeto a auditorias de organismos internacionales; el 2017 la OEA efectuó una evaluación al actual padrón con resultados positivos."
+              "descripcion": "El padrón electoral es el registro biométrico de todos/as los bolivianos/as en edad de votar (mayores a 18 años).{0} El padrón, sujeto a auditorías periódicas por organismos internacionales, se actualiza continuamente debido al empadronamiento de nuevos electores, la actualización del domicilio de los inscritos y la depuración de fallecidos/as. Estas operaciones, ejecutadas a solicitud de los/ interesados/as, no son automáticas ni inmediatas.{0} Para depurar familiares fallecidos/as del padrón electoral que según la {1} estén habilitados/as para votar, debes presentar una declaración jurada de acuerdo a lo descrito {2}.",
+              "link": {
+                "texto": "página de consulta del OEP",
+                "url": "https://yoparticipo.oep.org.bo/"
+              },
+              "link2": {
+                "texto": "aquí",
+                "url": "https://www.oep.org.bo/actualizacion-padron-electoral-2020/"
+              }
             },
             "item2": {
-              "titulo": "Conoce qué es el calendario electoral",
-              "imagen": "proceso-electoral2.png",
-              "descripcion": "El calendario electoral, aprobado y publicado por el Tribunal Supremo Electoral, establece el orden y plazos de las actividades que se deben cumplir desde la convocatoria al proceso electoral hasta la posesión de las autoridades electas (incluida una posible segunda vuelta).{0}El calendario electoral de las elecciones 2020 sufrió una pausa debido a la pandemia; definido el 6 de septiembre como nueva fecha de elección, las actividades del calendario se reanudaron desde el 26 de junio pasado, dando por cerradas las actividades que se cumplieron antes de la pausa.{0}El calendario final para las elecciones 2020, lo puedes consultar en {1}",
+              "titulo": "¿Qué es el calendario electoral?",
+              "imagen": "ficha3-elector.png",
+              "descripcion": "El calendario electoral establece el orden y plazos de las actividades que se deben cumplir desde la convocatoria a elecciones hasta la posesión de las autoridades electas (incluida una posible segunda vuelta). Las reglas y restricciones específicas de un proceso electoral son aplicables solamente mientras este calendario esté vigente.{0} El calendario electoral de las elecciones 2020 sufrió una pausa debido a la pandemia; definido el 6 de septiembre como nueva fecha de elección, las actividades del calendario se reanudarán dando por cerradas las actividades que se cumplieron antes de la pausa.{0} El calendario final para las elecciones 2020 definido por el Tribunal Supremo Electoral lo puedes consultar {1}.",
               "link": {
-                "texto": "https: //www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf",
-                "url": "https: //www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf"
+                "texto": "aquí",
+                "url": "https://www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf"
               }
             },
             "item3": {
-              "titulo": "Conoce las restricciones de la jornada electoral",
+              "titulo": "¿Qué papel cumplen las encuestas preelectorales?",
               "imagen": "ficha1-elector.png",
-              "descripcion": "Descripción"
+              "descripcion": "Las encuestas preelectorales son estudios que permiten capturar de forma referencial los niveles de preferencia de la población por las candidaturas en carrera electoral. La difusión de una encuesta preelectoral debe cumplir estas características:{0} a. Detallar la ficha técnica del estudio detallando el universo de encuestados/as, tamaño de la muestra y periodo de realización.{0} b. Exponer tablas, tortas o cualquier otro medio de presentación de los resultados y porcentajes de preferencia.{0} c. Detallar los porcentajes por candidatura, y el total de votos válidos, blancos y nulos.{0} Para las elecciones 2020, las empresas autorizadas para elaborar encuestas se detallan {1} y los medios de comunicación aurizados para difundirlas se detallan {2}.",
+              "link": {
+                "texto": "aquí",
+                "url": "https://www.oep.org.bo/wp-content/uploads/2020/02/Habilitados_Elaboracion_Encuestas_EG_2020.pdf"
+              },
+              "link2": {
+                "texto": "acá",
+                "url": "https://www.oep.org.bo/wp-content/uploads/2020/02/Habilitados_Difusion_Encuestas_EG_2020.pdf"
+              }
             },
             "item4": {
-              "titulo": "Conoce el rol de las misiones de observación",
+              "titulo": "¿Qué papel cumplen las misiones de observación?",
               "imagen": "proceso-electoral2.png",
-              "descripcion": "Descripción"
-            },
-            "item5": {
-              "titulo": "Aprende sobre la cadena de custodia de material electoral",
-              "imagen": "proceso-electoral2.png",
-              "descripcion": "Descripción"
+              "descripcion": "Las misiones de observación electoral tienen el fin de apoyar, mediante el despliegue de observadores/as acreditados/as, a la transparencia de los procesos electorales, referendos y revocatorias de mandato. Las declaraciones y posiciones institucionales de estas misiones sobre una elección no tienen efectos legales y deben ser acogidas como recomendaciones.{0} Los organismos de la sociedad civil, internacionales o no gubernamentales deberán firmar un convenio y acreditar a sus observadores/as ante el Tribunal Supremo Electoral para acompañar una elección.{0} Todos los procesos electorales deben contar con misiones de observación que desarrollen su labor con imparcialidad, objetividad, legalidad y sin injerencia."
             }
           }
         },
