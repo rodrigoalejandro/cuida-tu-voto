@@ -256,7 +256,7 @@ git pull
 git push
 
 # Ingresar al servidor
-ssh ramon@181.115.129.178
+ssh "nombre-de-usuario"@94.156.174.152
 
 # Cambiar usuario root
 sudo su -
