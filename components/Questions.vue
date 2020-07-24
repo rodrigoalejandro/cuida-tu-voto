@@ -39,11 +39,11 @@
                 :path="`${section}.items.${key}.descripcion`"
               >
                 <div class="separador" />
-                <a v-if="item.link" :href="item.link.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link.texto`) }}</a>
-                <a v-if="item.link2" :href="item.link2.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link2.texto`) }}</a>
-                <a v-if="item.link3" :href="item.link3.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link3.texto`) }}</a>
-                <a v-if="item.link4" :href="item.link4.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link4.texto`) }}</a>
-                <a v-if="item.link5" :href="item.link5.url" target="_blank">{{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.link5.texto`) }}</a>
+                <a v-if="item.link" :href="item.link.url" target="_blank">{{ $t(`${section}.items.${key}.link.texto`) }}</a>
+                <a v-if="item.link2" :href="item.link2.url" target="_blank">{{ $t(`${section}.items.${key}.link2.texto`) }}</a>
+                <a v-if="item.link3" :href="item.link3.url" target="_blank">{{ $t(`${section}.items.${key}.link3.texto`) }}</a>
+                <a v-if="item.link4" :href="item.link4.url" target="_blank">{{ $t(`${section}.items.${key}.link4.texto`) }}</a>
+                <a v-if="item.link5" :href="item.link5.url" target="_blank">{{ $t(`${section}.items.${key}.link5.texto`) }}</a>
               </i18n>
             </div>
           </div>
