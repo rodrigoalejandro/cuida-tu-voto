@@ -18,12 +18,12 @@
           "fichas": {
             "item1": {
               "titulo": "¿Quienes son los/as electores?",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha1-elector.jpg",
               "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, residentes en territorio nacional o extranjero, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
             },
             "item2": {
               "titulo": "¿Debo estar inscrito/a para poder votar?",
-              "imagen": "ficha2-elector.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "Para participar en las elecciones y votar debes estar inscrito/a en el padrón electoral. En base al domicilio registrado en el padrón, el OEP nos asigna una circunscripción, recinto y mesa de votación. Todo/as nos debemos empadronar por única vez cuando cumplimos 18 años y actualizar este registro en caso de cambiar de domicilio. {0} Para las elecciones 2020 la actualización de domicilios en el padrón concluyó el 26 de enero, y el empadronamiento de nuevos/as electores/as que cumplan 18 años hasta el día de la votación concluyó el 17 de julio."
             },
             "item3": {
@@ -37,18 +37,18 @@
             },
             "item4": {
               "titulo": "¿Cómo me preparo para votar?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-elector.jpg",
               "descripcion": "El día de la elección:{0} a. Antes de salir de casa, lleva contigo barbijo, guantes, alcohol en gel, tu documento de identidad, un bolígrafo y los implementos que creas necesarios.{0} b. Sal de casa y acude directamente a tu recinto entre las 08:00 y 16:00; una vez ahí, dirígete a tu mesa de sufragio. Si hubiera fila para votar, asegurate de mantener al menos un metro y medio de distancia con quienes están en espera; no saludes ni converses si no es necesario.{0} c. Cuando sea tu turno, entrega tu documento de identidad al jurado de tu mesa y verifica que la papeleta que te entregue este en blanco."
             },
             "item5": {
               "titulo": "¿Qué pasos debo seguir para votar?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha5-elector.jpg",
               "descripcion": "Una vez los/as jurados/as te hayan entregado la papeleta de sufragio en blanco:{0} a. Ingresa solo/a a la cabina o espacio reservado para votar.{0} b. Abre la papeleta y usa tu bolígrafo para emitir tu voto.{0} c. Dobla la papeleta y deposítala en el ánfora de la mesa.{0} Recuerda que tu voto es válido si marcas la casilla de un/a candidato/a con una x o check, es blanco cuando dejas sin marcar todas las casillas o nulo cuando rayas fuera de las casillas.{0} Sólo las personas con necesidades particulares pueden ingresar acompañadas por un/a familiar o jurado/a a la cabina o espacio reservado para emitir su voto."
             },
             "item6": {
               "titulo": "¿Qué hago después de votar?",
-              "imagen": "ficha3-elector.png",
-              "descripcion": "Después de depositar la papeleta de sufragio en el ánfora:{0} a. Firma e imprime tu huella en la lista electoral de tu mesa.{0} b. Recoge tu documento de identidad, tu certificado de sufragio, y retírate a casa inmediatamente. Debido a la pandemia no podrás quedarte a presenciar el conteo de votos de tu mesa.{0} c. En tu retorno, desecha tus guantes y bolígrafo en un basurero y desinfecta tus manos con alcohol en gel.{0} Recuerda, necesitarás tu certificado de sufragio para efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte por 90 días después de la elección."
+              "imagen": "ficha6-elector.jpg",
+              "descripcion": "Después de depositar la papeleta de sufragio en el ánfora:{0} a. Firma e imprime tu huella en la lista electoral de tu mesa.{0} b. Recoge tu documento de identidad, tu certificado de sufragio, y retírate a casa inmediatamente. Debido a la pandemia no podrás quedarte a presenciar el conteo de votos de tu mesa.{0} c. Al llegar casa, desecha tus guantes y bolígrafo en una bolsa cerrada, asea tu ropa y desinfecta tus manos con alcohol en gel.{0} Recuerda, necesitarás tu certificado de sufragio para efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte por 90 días después de la elección."
             },
             "item7": {
               "titulo": "¿Cómo puedo cuidar mi voto?",
@@ -77,7 +77,7 @@
             },
             "item2": {
               "titulo": "¿Cómo se eligen a los/as jurados/as?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-jurado.jpg",
               "descripcion": "Los/as jurados/as electorales son seleccionados/as por sorteo entre las personas inscritas en el padrón electoral habilitadas para votar.{0} Los Tribunales Electorales Departamentales son los encargados de realizar el sorteo de jurados/as electorales en actos públicos, contando con la presencia de delegados/as de las organizaciones políticas y otras instancias de control social.{0} Los sorteos para designación de jurados/as electorales para las elecciones 2020 se realizarán el 7 de agosto después del periodo de empadronamiento."
             },
             "item3": {
@@ -96,7 +96,7 @@
             },
             "item5": {
               "titulo": "¿Cómo me preparo para la jornada electoral?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha5-jurado.jpg",
               "descripcion": "El día de la elección:{0} a. Antes de salir de casa, viste y porta barbijos, guantes, alcohol en gel, tu documento de identidad, bolígrafos y los implementos que creas necesarios. Es recomendable que lleves pares adicionales de barbijos, guantes, etc como repuesto.{0} b. El/la notario/a de tu recinto te entregará un monto para cubrir tu refrigerio, sin embargo es recomendable que lleves preparada una merienda y evites comprar otros alimentos.{0} c. Acude a tu recinto a las 06:00, al igual que los otros/as jurados/as de tu mesa."
             },
             "item6": {
@@ -111,12 +111,12 @@
             },
             "item8": {
               "titulo": "¿Cómo realizar el escrutinio de votos?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha8-jurado.jpg",
               "descripcion": "El escrutinio de votos de la mesa se deberá desarrollar de forma pública, con la presencia de los/as delegados/as de organizaciones políticas disponibles en el recinto cumpliendo estos pasos:{0} a. Abierta el ánfora, un/a jurado/a deberá sacar, desdoblar y mostrar cada papeleta y decir en voz alta a favor de quien se emitió el voto para presidente/a y para diputado/a.{0} b. Un/a segundo/a jurado deberá ir anotando en una hoja de trabajo los votos que reciban las candidaturas, dictados por su compañero/a.{0} c. Otro jurado/a deberá recibir y guardar las papeletas ya revisadas."
             },
             "item9": {
               "titulo": "¿Cómo llenar el acta electoral?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha9-jurado.jpg",
               "descripcion": "Después del escrutinio, los resultados de la votación deben registrarse en el acta electoral de la mesa, que deberá ser firmada por todos/as los/as jurados/as presentes, mínimamente 3. Si se cometieran errores de llenado, estos deberán ser aclarados en la casilla de observaciones del acta.{0} Llenada y firmada, el acta electoral original debe ser entregada en un sobre de seguridad al notario/a del recinto para su entrega al Tribunal Electoral Departamental respectivo, y distribuida en copias al/la jurado/a presidente de mesa y a los/as delegados/as de organizaciones políticas presentes. Los materiales y útiles electorales restantes también deben ser entregados en los sobres de seguridad respectivos al/la notario/a.{0} Si hubieras sido elegido/a presidente/a de mesa, puedes controlar la autenticidad de los resultados publicados en el portal del OEP con la copia del acta electoral que te corresponde."
             }
           }
@@ -128,12 +128,12 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es una organización política?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-politicos.jpg",
               "descripcion": "Una organización política es un partido, agrupación ciudadana u organización indígena originaria, con personalidad jurídica otorgada por el OEP, creada para ejercer la representación de los/as bolivianos/as en el gobierno por decisión de la voluntad popular.{0} A través de la votación por candidaturas de las organizaciones y la elección de presidentes/as, vicepresidentes/as y asambleístas, se ejerce la democracia representativa.{0} A continuación, todo lo que debes conocer sobre la participación y rol de las organizaciones políticas en las elecciones."
             },
             "item2": {
               "titulo": "¿Cómo se definen las candidaturas?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-politicos.jpg",
               "descripcion": "Las organizaciones políticas deben desarrollar una vida orgánica propia y definir a sus candidatos/as con la participación de sus militantes inscritos/as en el OEP. Para postular en las elecciones, las organizaciones deben inscribir sus listas de candidatos/as ante el Tribunal Supremo Electoral de acuerdo a calendario.{0} Por equidad, en estas listas debe existir alternancia de género; por representatividad, sus candidatos/as a la presidencia y vicepresidencia deben haber residido en el país por al menos 5 años antes de la elección y sus candidatos/as a asambleístas al menos 2 años en su circunscripción. Las listas de candidatos/as para las elecciones 2020 las encuentras {1}.{0} En las elecciones, las organizaciones políticas que superan el 3% de los votos válidos, obtienen una cantidad de asambleístas (senadores/as y diputados/as) proporcional a su votación nacional.",
               "link": {
                 "texto": "aquí",
@@ -142,7 +142,7 @@
             },
             "item3": {
               "titulo": "¿Cómo conocer las propuestas de las organizaciones?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha3-politicos.jpg",
               "descripcion": "Para emitir un voto informado, todos/as tenemos derecho a conocer a los/as candidatos/as y las propuestas de las organizaciones políticas. Los programas de gobierno propuestos por las organizaciones rumbo a las elecciones 2020 los encuentras {1}.{0} Las organizaciones también pueden difundir sus propuestas mediante los medios de comunicación; los medios estatales deberán brindar a las organizaciones espacios de difusión gratuitos y equitativos.{0} Para las elecciones 2020, la campaña electoral se desarrollará del 7 de agosto al 3 de septiembre, las organizaciones deberán utilizar únicamente medios electrónicos para difundir sus propuestas, no podrán realizar concentraciones, ni recibirán apoyo económico del Tribunal Supremo Electoral para esta labor.",
               "link": {
                 "texto": "aquí",
@@ -151,7 +151,7 @@
             },
             "item4": {
               "titulo": "¿Qué función cumplen los/as delegados/as políticos/as?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-politicos.jpg",
               "descripcion": "Los/as delegados/as políticos/as, inscritos/as en el OEP, son representantes oficiales de las organizaciones políticas en actos y gestiones del proceso electoral. Las organizaciones designan delegados/as políticos para presenciar:{0} a. El sorteo de franjas en la papeleta de sufragio.{0} b. El sorteo de jurados/as electorales.{0} c. La votación, escrutinio y cómputo de votos en mesas de sufragio el día de la elección.{0} d. El cómputo departamental de actas y resultados electorales.{0} e. El cómputo nacional de resultados electorales finales.{0} f. La proclamación de resultados electorales finales.{0} En cada acto los/as delegados/as, identificados/as con una credencial, tienen la libertad de controlar el cumplimiento de las reglas de juego, obtener copias de actas y denunciar hechos que consideren afectan a su organización."
             }
           }
@@ -163,7 +163,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el Órgano Electoral Plurinacional?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-oep.jpg",
               "descripcion": "El Órgano Electoral Plurinacional (OEP), es el órgano del estado encargado de administrar las elecciones, referendos y revocatorias de mandato desarrolladas en el país, en el marco de la democracia participativa, representativa y comunitaria.{0} El OEP está compuesto por el Tribunal Supremo Electoral, los Tribunales Electorales Departamentales, notarios/as electorales, otras unidades funcionales y en periodos de elecciones, por los jurados/as electorales. {0} A continuación te explicamos el papel y funciones de estas instituciones en el desarrollo de elecciones."
             },
             "item2": {
@@ -177,7 +177,7 @@
             },
             "item3": {
               "titulo": "¿Qué funciones cumplen los Tribunales Electorales Departamentales?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha3-oep.jpg",
               "descripcion": "Los Tribunales Electorales Departamentales (TED) son la máxima autoridad del OEP a nivel departamental, con competencias únicamente en su departamento bajo directrices del Tribunal Supremo Electoral; en Bolivia existen 9 TED, uno por departamento. Cada TED está conformados por 5 vocales: 4 designados/as por la asamblea legislativa departamental y 1 designado/a por el/la presidente/a del TSE.{0} Los tribunales departamentales tienen como función principal administrar y ejecutar procesos electorales, referendos y revocatorias bajo la organización, dirección y supervisión del Tribunal Supremo Electoral.{0} En procesos electorales de alcance nacional, los TED son brazos operativos encargados de administrar el material electoral, dirigir a los/as notarios/as electorales y efectuar el cómputo departamental de los resultados para su envío y consolidación en el Tribunal Supremo Electoral, entre otros."
             },
             "item4": {
@@ -204,7 +204,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el padrón electoral?",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha1-padron.jpg",
               "descripcion": "El padrón electoral es el registro biométrico de todos/as los bolivianos/as en edad de votar (mayores a 18 años).{0} El padrón, sujeto a auditorías periódicas por organismos internacionales, se actualiza continuamente debido al empadronamiento de nuevos electores, la actualización del domicilio de los inscritos y la depuración de fallecidos/as. Estas operaciones, ejecutadas a solicitud de los/ interesados/as, no son automáticas ni inmediatas.{0} Para depurar familiares fallecidos/as del padrón electoral que según la {1} estén habilitados/as para votar, debes presentar una declaración jurada de acuerdo a lo descrito {2}.",
               "link": {
                 "texto": "página de consulta del OEP",
@@ -226,7 +226,7 @@
             },
             "item3": {
               "titulo": "¿Qué papel cumplen las encuestas preelectorales?",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha1-encuesta.jpg",
               "descripcion": "Las encuestas preelectorales son estudios que permiten capturar de forma referencial los niveles de preferencia de la población por las candidaturas en carrera electoral. La difusión de una encuesta preelectoral debe cumplir estas características:{0} a. Detallar la ficha técnica del estudio detallando el universo de encuestados/as, tamaño de la muestra y periodo de realización.{0} b. Exponer tablas, tortas o cualquier otro medio de presentación de los resultados y porcentajes de preferencia.{0} c. Detallar los porcentajes por candidatura, y el total de votos válidos, blancos y nulos.{0} Para las elecciones 2020, las empresas autorizadas para elaborar encuestas se detallan {1} y los medios de comunicación aurizados para difundirlas se detallan {2}.",
               "link": {
                 "texto": "aquí",
@@ -239,7 +239,7 @@
             },
             "item4": {
               "titulo": "¿Qué papel cumplen las misiones de observación?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha1-observador.jpg",
               "descripcion": "Las misiones de observación electoral tienen el fin de apoyar, mediante el despliegue de observadores/as acreditados/as, a la transparencia de los procesos electorales, referendos y revocatorias de mandato. Las declaraciones y posiciones institucionales de estas misiones sobre una elección no tienen efectos legales y deben ser acogidas como recomendaciones.{0} Los organismos de la sociedad civil, internacionales o no gubernamentales deberán firmar un convenio y acreditar a sus observadores/as ante el Tribunal Supremo Electoral para acompañar una elección.{0} Todos los procesos electorales deben contar con misiones de observación que desarrollen su labor con imparcialidad, objetividad, legalidad y sin injerencia."
             }
           }
@@ -251,12 +251,12 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el material electoral?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "El material electoral es el material provisto por el OEP necesario para que los/as jurados/as electorales y electores desarrollen la votación y escrutinio de votos. Estos materiales, según su uso se clasifica en:{0} a. Fungibles: materiales que se emplean y consumen con su uso el mismo día de votación, debiendo ser desechados.{0} b. No fungibles: materiales empleados el día de la votación y que permiten certificar la participación de la población y los resultados electorales, debiendo ser preservados por los Tribunales Electorales Departamentales.{0} c. Reutilizables: los útiles electorales que pueden reciclarse y usarse nuevamente en futuros procesos.{0} Al inicio de la jornada electoral, los Tribunales Electorales Departamentales distribuyen el material a los/as notarios/as de recinto y ellos/as a los/as jurados/as electorales; concluida la jornada, los/as jurados/as devuelven el material a los/as notarios/as y estos/as a los tribunales departamentales. A esta secuencia se la llama cadena de custodia.{0} A continuación, todo lo que necesitas conocer sobre los materiales electorales."
             },
             "item2": {
               "titulo": "¿Qué son las papeletas de sufragio?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-material.jpg",
               "descripcion": "En las papeletas de sufragio, los/as electores/as marcan sus opciones elegidas, que son leídas y computadas en el escrutinio de votos. Después del escrutinio, los resultados de la votación son registrados en el acta electoral de cada mesa y las papeletas pierden su valor; por este motivo las papeletas de sufragio son consideraras material fungible, es decir, desechable.{0} La ubicación de las franjas de candidaturas en la papeleta de sufragio de una elección, se definen en un sorteo público con la presencia de delegados/as de las organizaciones políticas. El orden de candidaturas en la papeleta de sufragio de las elecciones 2020 la puedes ver {1}.",
               "link": {
                 "texto": "aquí",
@@ -265,32 +265,32 @@
             },
             "item3": {
               "titulo": "¿Qué son las ánforas de sufragio?",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha3-material.jpg",
               "descripcion": "Las ánforas de sufragio son los recipientes de cartón en los que los/as electores/as depositan las papeletas de sufragio una vez emiten su voto. Su única función es almacenar las papeletas durante la votación.{0} Las ánforas deberán tener el logo del OEP impreso y una ventana que permita observar su interior. Su diseño es genérico, pudiendo ser utilizadas en más de una elección; por este motivo las ánforas son consideradas material reutilizable."
             },
             "item4": {
               "titulo": "¿Qué son las actas electorales?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha4-material.jpg",
               "descripcion": "El acta electoral centraliza toda la información de la votación en una mesa de sufragio; en el acta los/as jurados/as electorales registran y certifican:{0} a. La hora de inicio y cierre de la mesa.{0} b. Los votos obtenidos por cada candidatura.{0} c. Los votos válidos, blancos y nulos.{0} d. El total de inscritos/as, asistentes y papeletas en ánfora.{0} e. Datos y firma de jurados/as presentes en la apertura y jurados/as presentes en el cierre de mesa (pueden variar); minimamente 3.{0} f. Datos y firma de delegados/as de organizaciones políticas asistentes. Un/a mismo/a delegado/a puede asistir al escrutinio de varias mesas en un recinto y firmar más de un acta en ese recinto.{0} g. Observaciones al acta para corregir o aclarar errores de llenado.{0}  Una vez firmada, cada acta debe ser entregada en copias al/la presidente/a de mesa y a los/as delegados/as de organizaciones presentes. El acta original debe ser entregada al/la notario/a de recinto en un sobre de seguridad.{0} Las actas electorales al contener los resultados de la votación certificados por los/as jurados/as, son el documento más importante en una elección, debiendo ser preservadas como material no fungible."
             },
             "item5": {
               "titulo": "¿Qué son las listas electorales?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "En la jornada electoral, se utilizan dos tipos de listas electorales por cada mesa de sufragio:{0} a. La lista de habilitados/as con sus datos y fotografía, en la que los/as electores asistentes y habilitados/as deben firmar e imprimir su huella.{0} b. La lista de inhabilitados/as con sus datos, fotografía y motivos de su inhabilitación.{0} En base a estas listas, los/as jurados/as electorales deben verificar la identidad, permitir la participación y controlar la asistencia de los/as electores en su mesa.{0} Las listas electorales al contener el registro de asistencia o inasistencia de electores certificados por los/as jurados/as deben ser preservadas como material no fungible."
             },
             "item6": {
               "titulo": "¿Qué son los certificados de sufragio",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha6-material.jpg",
               "descripcion": "Los certificados de sufragio contienen los datos y fotografía del/la elector/a, información de la elección y firma del/la jurado/a presidente/a de mesa.{0} Estos certificados deben ser entregados a los/as electores asistentes después de que hayan emitido su voto; la presentación de estos certificados es requisito para que cada persona en edad de votar haga trámites y operaciones bancarias por el lapso de 3 meses posteriores a la elección."
             },
             "item7": {
               "titulo": "¿Qué son los útiles electorales?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha7-material.jpg",
               "descripcion": "Los útiles electorales son los materiales e insumos que son entregados a los/as jurados/as electorales como apoyo para el funcionamiento de su mesa de sufragio; materiales tales como bolígrafos, carteles, cintas adhesivas, tampos, etc.{0} En caso de no ser consumidos por completo, los útiles electorales pueden ser reciclados para futuras elecciones, siendo considerados material reutilizable."
             },
             "item8": {
               "titulo": "¿Qué son los sobres de seguridad?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha8-material.jpg",
               "descripcion": "Los sobres de seguridad son recipientes en los que los/as jurados/as depositan el material electoral una vez han concluido todas las actividades de su mesa. Existen tres tipos de sobre de seguridad según su uso:{0} a. Sobre A, de máxima seguridad, en el que se deposita el acta electoral y las listas de habilitados/as e inhabilitados/as.{0} b. Sobre B, en el que se depositan las papeletas de sufragio utilizadas.{0} c. Sobre C, en el que se deposita el material restante y las papeletas de sufragio no utilizadas.{0} Todos estos sobres debidamente identificados, deben ser entregados al/la notario/a de recinto por el/la presidente de mesa.{0} Dependiendo de la disponibilidad de espacio de los Tribunales Electorales Departamentales, según su tipo, los sobres con contenido pueden ser almacenados en distintas instalaciones, propias o alquiladas."
             }
           }
@@ -311,17 +311,17 @@
             },
             "item2": {
               "titulo": "¿Quienes operan la TREP?",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha2-trep.jpg",
               "descripcion": "Los resultados preliminares reportados en el portal del OEP a través de la TREP se capturan mediante una aplicación móvil desarrollada por el Tribunal Supremo Electoral que es alimentada por operadores de registro del SERECI, desplegados en los recintos electorales.{0} A diferencia del cómputo oficial de votos, el procesamiento y difusión de resultados a través del sistema TREP es ejecutado por personal del OEP de forma unilateral, sin controles de jurados/as electorales, organizaciones políticos o misiones de observación."
             },
             "item3": {
               "titulo": "¿Cómo funciona la TREP?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha3-trep.jpg",
               "descripcion": "Cada operador de registro TREP, dependiente del SERECI, ingresa a la aplicación móvil de este sistema (en su celular) y:{0} a. Saca fotografías a las actas electorales (originales o copias) que hayan sido llenadas en las mesas de su recinto.{0} b. Sube las fotografías al sistema.{0} c. Tabula los resultados registrados en las actas (sin considerar aclaraciones, correcciones u observaciones anotadas en ellas).{0} d. Finaliza y guarda el registro.{0} Para actualizar esta información en el portal del OEP, los operadores deberán disponer de conexión a internet. Si un operador no la tuviera, puede seguir registrando información en la aplicación pues sus registros serán actualizados de golpe una vez consiga una conexión."
             },
             "item4": {
               "titulo": "¿Qué fin y alcance tiene la TREP?",
-              "imagen": "proceso-electoral2.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "El fin del TREP es establecer tendencias de votación ante la opinión pública a la brevedad posible, priorizando, como dijimos, la inmediatez de los datos sobre su precisión.{0} La información tabulada por cada operador de registro TREP tiene muchas veces errores de llenado, no contempla aclaraciones registradas en acta y no dispone de controles o personal adicional para verificarla.{0} Por estos motivos, los resultados difundidos mediante la TREP no son vinculantes, son preliminares y pueden diferir de los resultados procesados y publicados mediante el cómputo oficial."
             }
           }
@@ -333,27 +333,27 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el cómputo oficial?",
-              "imagen": "ficha1-elector.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "El cómputo oficial es el conjunto de procedimientos mediante los que se revisan, validan y publican los resultados electorales oficiales (vinculantes) de una elección. El cómputo es un proceso público y participativo en todas sus etapas: {0} a. Cómputo de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP."
             },
             "item2": {
               "titulo": "¿Quiénes operan el cómputo oficial?",
-              "imagen": "ficha2-elector.png",
+              "imagen": "ficha3-elector.png",
               "descripcion": "El cómputo oficial es gestionado por:{0} a. Jurados/as electorales: encargados del escrutinio de votos y registro de resultados de las mesas de sufragio en las actas electorales.{0} b. Vocales de los Tribunales Electorales Departamentales: encargados de centralizar, revisar y validar el cómputo de actas y resultados de su departamento, y enviarlos al Tribunal Supremo Electoral mediante el acta de cómputo departamental.{0} c. Vocales del Tribunal Supremo Electoral: encargados de centralizar y validar las actas departamentales enviadas por los tribunales departamentales, elaborar el acta de cómputo nacional, y publicar en el portal del OEP los resultados computados hasta alcanzar el 100% del conteo nacional.{0} d. Organizaciones políticas: encargadas de hacer seguimiento y validar el cómputo de actas y resultados electorales en todas sus etapas, desplegando a sus delegados/as en cada una de ellas."
             },
             "item3": {
               "titulo": "¿Cómo se desarrolla el cómputo de votos?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha3-computo.jpg",
               "descripcion": "Concluida la votación en una mesa de sufragio, el escrutinio y cómputo de votos se desarrolla de la siguiente forma:{0} a. Los/as jurados/as electorales de la mesa inician el cómputo de votos en ambientes de su recinto, en un acto público y con presencia de delegados/as de organizaciones políticas y observadores/as.{0} b. Abierta el ánfora, uno/a de los/as jurados/as desdobla y muestra, una por una, cada papeleta de sufragio, declarando en voz alta a favor de cuál candidato/a se emitió el voto.{0} c. A medida que se declaran los votos, otro/a jurado/a los anota en una hoja de trabajo colocada en un espacio visible.{0} d. Revisadas todas las papeletas, se anotará en la hoja de trabajo el total de votos que obtuvo cada candidato/a además de los votos blancos y nulos.{0} e. Finalmente el/la jurado/a secretario/a registrará los resultados e información correspondiente en el acta electoral de la mesa.{0} f. Los/as jurados/as suelen cometer errores al registrar números, sumas incorrectas, etc; estos errores pueden ser subsanados por ellos/as mismos/as anotando las aclaraciones respectivas en la casilla del acta reservada para eso.{0} g. Llenada y verificada el acta, todos los/as jurados/as y delegados/as de organizaciones presentes deben firmarla e imprimir su huella en ella. Por lo menos deberán haber tres jurados/as firmantes; no existe un número mínimo de delegados/as de organizaciones.{0} h. El acta electoral original es entregada en un sobre de seguridad al notario/a del recinto para su entrega al tribunal departamental respectivo y distribuida en copias al/la jurado/a presidente de mesa y a los/as delegados/as de organizaciones políticas presentes."
             },
             "item4": {
               "titulo": "¿Cómo se desarrolla el cómputo departamental?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-computo.jpg",
               "descripcion": "A medida que las actas electorales son entregadas a los Tribunales Electorales Departamentales por los/as notarios/as de recinto, el cómputo departamental se desarrolla cumpliendo estos pasos:{0} a. Los/as vocales de cada tribunal departamental a las 18:00 del día de la elección, en instalaciones propias o alquiladas, inician el cómputo departamental en sesión pública y en presencia de delegados/as de organizaciones políticas y misiones de observación.{0} b. Los/as vocales y los/as delegados/as de organizaciones revisan una por una, cada acta electoral (original) de su departamento, verifican los resultados y aclaraciones registradas por los/as jurados/as en ellas y aprueban su registro en el sistema informático del cómputo oficial; en este proceso los/as delegados de organizaciones políticas comparan las actas originales con las copias que disponen, pudiendo denunciar inconsistencias y solicitar aclaraciones.{0} c. Una vez aprobada, cada acta es escaneada, cargada, tabulada (considerando sus aclaraciones) y publicada en el sistema de cómputo, en presencia de delegados/as de organizaciones y observadores/as.{0} d. Computadas todas las actas del departamento, los vocales del tribunal departamental firman el acta de cómputo departamental con los resultados finales. {0} e. El acta de cómputo departamental es enviada en original al Tribunal Supremo Electoral y entregada en copias a los/as delegados/as de las organizaciones políticas."
             },
             "item5": {
               "titulo": "¿Cómo se desarrolla el cómputo nacional?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha5-computo.jpg",
               "descripcion": "A medida que las actas de cómputo departamentales son entregadas al Tribunal Supremo Electoral por los/as tribunales departamentales, el cómputo nacional se desarrolla cumpliendo estos pasos:{0} a. Los/as vocales del Tribunal Supremo Electoral, en instalaciones propias o alquiladas, desarrollan el cómputo nacional en sesión pública y en presencia de delegados/as de organizaciones políticas y misiones de observación.{0} b. Los/as vocales y los/as delegados/as de organizaciones revisan una por una, cada acta de cómputo departamental (original) y validan los resultados y aclaraciones registradas en ellas; en este proceso, los/as delegados/as de organizaciones políticas comparan las actas de cómputo departamentales originales con las copias que disponen, pudiendo denunciar inconsistencias y solicitar aclaraciones.{0} c. Validadas todas las actas de cómputo departamental, los vocales del Tribunal Supremo Electoral firman el acta de cómputo nacional con los resultados finales y oficiales de la elección.{0} d. A medida que el cómputo nacional se desarrolla, el Tribunal Supremo Electoral actualiza de forma paulatina los resultados oficiales en el {1} hasta alcanzar el 100% del conteo nacional.",
               "link": {
                 "texto": "portal del OEP",
@@ -397,7 +397,15 @@
     "items": {
       "item1": {
         "titulo": "¿Por qué hay personas fallecidas habilitadas en el padrón electoral?",
-        "descripcion": "La actualización del padrón electoral no es automática ni inmediata, por este motivo existen personas fallecidas incluidas en él y en las listas electorales.{0} Para depurar familiares fallecidos/as del padrón que según la {1} estén habilitados/as para votar, debes presentar una declaración jurada de acuerdo a lo descrito {2}.{0} Si un/a fallecido/ no hubiera sido depurado/a hasta el día de la elección no quiere decir que se vayan a emitir votos por el/ella, pues los/as jurados/as de su mesa controlarán que nadie se presente para votar suplantando su identidad y registrarán las inasistencias en la lista y el acta electoral de la mesa."
+        "descripcion": "La actualización del padrón electoral no es automática ni inmediata, por este motivo existen personas fallecidas incluidas en él y en las listas electorales.{0} Para depurar familiares fallecidos/as del padrón que según la {1} estén habilitados/as para votar, debes presentar una declaración jurada de acuerdo a lo descrito {2}.{0} Si un/a fallecido/ no hubiera sido depurado/a hasta el día de la elección no quiere decir que se vayan a emitir votos por el/ella, pues los/as jurados/as de su mesa controlarán que nadie se presente para votar suplantando su identidad y registrarán las inasistencias en la lista y el acta electoral de la mesa.",
+        "link": {
+          "texto": "página de consulta del OEP",
+          "url": "https://yoparticipo.oep.org.bo/"
+        },
+        "link2": {
+          "texto": "aquí",
+          "url": "https://www.oep.org.bo/actualizacion-padron-electoral-2020/"
+        }
       },
       "item2": {
         "titulo": "¿Hay algún porcentaje mínimo de asistencia para una elección?",
