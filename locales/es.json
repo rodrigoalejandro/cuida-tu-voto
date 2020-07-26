@@ -19,7 +19,7 @@
             "item1": {
               "titulo": "¿Quienes son los/as electores?",
               "imagen": "ficha1-elector.jpg",
-              "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, residentes en territorio nacional o extranjero, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el 6 de septiembre de 2020 celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
+              "descripcion": "Los/as electores/as somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, residentes en territorio nacional o extranjero, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, en próximas semanas celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!"
             },
             "item2": {
               "titulo": "¿Debo estar inscrito/a para poder votar?",
@@ -218,7 +218,7 @@
             "item2": {
               "titulo": "¿Qué es el calendario electoral?",
               "imagen": "ficha3-elector.png",
-              "descripcion": "El calendario electoral establece el orden y plazos de las actividades que se deben cumplir desde la convocatoria a elecciones hasta la posesión de las autoridades electas (incluida una posible segunda vuelta). Las reglas y restricciones específicas de un proceso electoral son aplicables solamente mientras este calendario esté vigente.{0} El calendario electoral de las elecciones 2020 sufrió una pausa debido a la pandemia; definido el 6 de septiembre como nueva fecha de elección, las actividades del calendario se reanudarán dando por cerradas las actividades que se cumplieron antes de la pausa.{0} El calendario final para las elecciones 2020 definido por el Tribunal Supremo Electoral lo puedes consultar {1}.",
+              "descripcion": "El calendario electoral establece el orden y plazos de las actividades que se deben cumplir desde la convocatoria a elecciones hasta la posesión de las autoridades electas (incluida una posible segunda vuelta). Las reglas y restricciones específicas de un proceso electoral son aplicables solamente mientras este calendario esté vigente.{0} El calendario electoral de las elecciones 2020 sufrió una pausa debido a la pandemia; definida la nueva fecha de elección, las actividades del calendario se reanudarán dando por cerradas aquellas que se cumplieron antes de la pausa.{0} El calendario final para las elecciones 2020 definido por el Tribunal Supremo Electoral lo puedes consultar {1}.",
               "link": {
                 "texto": "aquí",
                 "url": "https://www.oep.org.bo/wp-content/uploads/2020/06/Calenario_Electoral_EG_2020_06-09-2020.pdf"
@@ -379,16 +379,20 @@
     "titulo": "Elecciones en pandemia",
     "items": {
       "item1": {
-        "titulo": "Protocolos para salir de casa",
-        "descripcion": "Descripción 1"
+        "titulo": "¿Cuántos y cuáles procesos electorales se celebraron a nivel mundial durante la pandemia?",
+        "descripcion": "Hasta julio de 2020 al menos 49 países y territorios celebraron elecciones nacionales o subnacionales en plena pandemia; a continuación te damos el detalle de estos procesos electorales:{0} -En febrero de 2020 se celebraron elecciones parlamentarias en Irán, elecciones parciales en Taiwán, elecciones presidenciales en Togo y elecciones generales en Eslovaquia.{0} -En marzo de 2020 se celebraron elecciones locales en Queensland - Australia, elecciones locales en Bangladesh, elecciones parlamentarias en Camerún, elecciones del consejo en Canadá, elecciones municipales en República Dominicana, elecciones locales en Francia, elecciones locales en Baviera - Alemania, elecciones legislativas y referéndum constitucional en Guinea, elecciones generales en Guyana, elecciones generales en Seanad - Irlanda, elecciones legislativas en Israel, elecciones generales en Mali, elecciones locales en Hâncești - Moldavia, elecciones parciales en Polonia, elecciones locales en Lucerna - Suiza, elecciones de presidente de kuomintang en Taiwán, elecciones parlamentarias en Tayikistán, elecciones parciales en Kharkiv - Ucrania, elecciones primarias en Arizona, Florida e Illinois - EEUU y elecciones generales en Vanuatu.{0} -En abril de 2020 se celebraron elecciones locales en Japón, elecciones parlamentarias en Kiribati, la segunda vuelta de elecciones parlamentarias en Malí, elecciones parlamentarias en Corea del Sur, la segunda vuelta de elecciones municipales en Ginebra - Suiza, elecciones primarias en Wisconsin - EEUU, elección especial del congreso en Maryland - EEUU y elecciones primarias en Ohio - EEUU.{0} -En mayo de 2020 se celebraron elecciones locales en Benin, elecciones presidenciales en Burundi, elección de los consejos legislativos de Maharashtra - India, elección del gobierno local de Cross River - Nigeria, elecciones generales en Niue y elecciones generales en Surinam.{0} -En junio de 2020 se celebraron elecciones primarias en 8 estados de EEUU, elecciones parciales del senado en República Checa, votación de retiro municipal en Taiwán, elecciones de la asamblea nacional en Saint Kitts y Nevis, elecciones primarias en Georgia, Nevada, Dakota del Norte, Carolina del Sur y Virginia Occidental - EEUU, elecciones en Rajya Sabha - India, elecciones parlamentarias, provinciales y locales en Serbia, nueva elección presidencial en Malawi, elecciones parlamentarias en Mongolia, elecciones presidenciales en Islandia, elecciones municipales de Estiria - Austria, la segunda vuelta de elecciones locales en Francia y elecciones presidenciales en Polonia.{0} -En julio de 2020 se celebró un referéndum constitucional en Rusia, elecciones parciales federales en Nueva Gales del Sur - Australia, elecciones de la asamblea estatal en el estado de Pahang - Malasia, elecciones parlamentarias en Croacia, elecciones gubernamentales en Tokio - Japón, elecciones presidenciales y legislativas en República Dominicana, elecciones municipales en Hassi El Ferid - Túnez, elecciones parlamentarias en Singapur, la segunda vuelta de elecciones presidenciales en Polonia, elecciones regionales en País Vasco y Galicia - España, elecciones primarias y segunda vuelta en Texas, Alabama y Maine - EEUU, elecciones parlamentarias en Macedonia del Norte y elecciones parlamentarias en Siria.{0} Estos datos se encuentran en el {1} sobre la celebración de elecciones en tiempos de pandemia, publicado por el instituto internacional de asistencia electoral IDEA.",
+        "link": {
+          "texto": "reporte actualizado",
+          "url": "https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections#ELECTIONS%20HELD%20AMID%20COVID-19."
+        }
       },
       "item2": {
-        "titulo": "Protocolos para el recinto electoral",
-        "descripcion": "Descripción 2"
-      },
-      "item3": {
-        "titulo": "Protocolos para regresar a casa",
-        "descripcion": "Descripción 3"
+        "titulo": "¿La celebración de elecciones en pandemia incrementa los contagios por COVID-19?",
+        "descripcion": "Según el {1} sobre la celebración de elecciones en tiempos de pandemia publicado por el instituto internacional de asistencia electoral IDEA, los países y territorios que realizaron procesos electorales en plena pandemia aplicando medidas adecuadas de bioseguridad, no experimentaron cambios o incrementos en las tendencias de sus curvas de contagio.",
+        "link": {
+          "texto": "reporte actualizado",
+          "url": "https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections#ELECTIONS%20HELD%20AMID%20COVID-19."
+        }
       }
     }
   },
@@ -408,18 +412,18 @@
         }
       },
       "item2": {
-        "titulo": "¿Hay algún porcentaje mínimo de asistencia para una elección?",
-        "descripcion": "Respuesta 2"
+        "titulo": "¿Qué pasa si no me presenté a votar?",
+        "descripcion": "Si no acudiste a votar el día de la elección, no podrás obtener el certificado de sufragio que es un requisito necesario para que puedas efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte durante 90 después de la jornada electoral.{0} En caso de que no hayas podido asistir a votar por caso fortuito o razones de fuerza mayor, podrás gestionar un certificado de impedimento de sufragio presentando documentación de respaldo en las oficinas de tu Tribunal Electoral Departamental y cumpliendo los pasos del trámite que te comuniquen en esta institución. Una vez te lo entreguen, este certificado tendrá un uso equivalente al del certificado de sufragio.{0} En caso de no tener los respaldos suficientes para obtener el certificado de impedimento de sufragio y tu solicitud fuera rechazada, deberás pagar una multa por inasistencia a la jornada electoral cumpliendo las instrucciones que te comunique el tribunal departamental."
       },
       "item3": {
-        "titulo": "¿Qué sucede si no emito mi voto a pesar de estar habilitado?",
-        "descripcion": "Respuesta 3"
+        "titulo": "¿Es cierto que el voto rural vale más que el voto urbano?",
+        "descripcion": "Para que entiendes bien el tema, a continuación te explicamos cómo funciona la ponderación de los votos en la distribución de diputaciones y por qué es un error creer que los votos de las áreas rurales valen más que los votos de las áreas urbanas.{0} En cada elección nacional, los/as bolivianos/as elegimos a un/a presidente/a, un/a vicepresidente/a, 36 senadores/as y 130 diputados/as distribuidos en 63 diputaciones uninominales, 63 plurinominales y 7 indígenas originarias.{0} Los/as diputados/as uninominales son elegidos/as en 63 circunscripciones distribuidas entre los 9 departamentos de acuerdo a su tamaño poblacional; por temas de equidad, a los departamentos menos poblados y con menores índices de desarrollo se les asigna circunscripciones de apoyo.{0} En cada departamento, cada circunscripción abarca una cantidad poblacional más o menos igual, definida en base a la información del último censo de población y vivienda. No existen las circunscripciones urbanas o rurales ni mucho menos un tratamiento diferenciado de ellas en su distribución o en el valor de sus votos.{0} En una elección, cada organización política que haya alcanzado al menos el 3% de los votos válidos a nivel nacional, obtiene una cantidad de diputados/as proporcional a su porcentaje de votación, sumando a sus diputados/as uninominales electos/as los/as plurinomonales necesarios/as para alcanzar ese porcentaje."
       }
     }
   },
   "acerca-de": {
     "titulo": "Acerca de este sitio",
-    "descripcion": "Cuida tu voto Bolivia es una página que te informa sobre todo lo que necesitas saber de las elecciones generales 2020 para que puedas participar de forma segura, cuidando tu voto y tu salud.{0}Nuestras fuentes son la Constitución Política del Estado, la Ley 018 del Órgano Electoral, la Ley 026 del régimen electoral, los reglamentos de las elecciones y las publicaciones oficiales del OEP.{0}Esta página está en continua actualización, si crees que hay contenidos que deberíamos agregar puedes escribirnos a nuestras redes sociales.",
+    "descripcion": "Cuida tu voto Bolivia es una página que te brinda toda la información que requieres sobre las elecciones generales 2020, para que puedas participar de forma segura, cuidando tu voto y tu salud.{0}Nuestras fuentes son la Constitución Política del Estado, la Ley 018 del Órgano Electoral, la Ley 026 del régimen electoral, los reglamentos de las elecciones y publicaciones en medios informativos acerca de procesos electorales desarrollados en pandemia.{0}Esta página está en continua actualización, si crees que hay contenidos que deberíamos agregar puedes escribirnos a nuestras redes sociales.",
     "redes": {
       "facebook": "cuida-tu-voto",
       "twitter": "cuida-tu-voto",
