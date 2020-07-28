@@ -9,7 +9,8 @@
     }
 
     & .accordion-body {
-      max-height: 5000px;
+      max-height: 250px;
+      overflow-y: auto;
     }
   }
 
