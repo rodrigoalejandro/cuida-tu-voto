@@ -312,7 +312,7 @@
             "item2": {
               "titulo": "¿Quienes operan la TREP?",
               "imagen": "ficha2-trep.jpg",
-              "descripcion": "Los resultados preliminares reportados en el portal del OEP a través de la TREP se capturan mediante una aplicación móvil desarrollada por el Tribunal Supremo Electoral que es alimentada por operadores de registro del SERECI, desplegados en los recintos electorales.{0} A diferencia del cómputo oficial de votos, el procesamiento y difusión de resultados a través del sistema TREP es ejecutado por personal del OEP de forma unilateral, sin controles de jurados/as electorales, organizaciones políticos o misiones de observación."
+              "descripcion": "Los resultados preliminares reportados en el portal del OEP a través de la TREP se capturan mediante una aplicación móvil desarrollada por el Tribunal Supremo Electoral que es alimentada por operadores de registro del SERECI, desplegados en los recintos electorales.{0} A diferencia del cómputo oficial de votos, el procesamiento y difusión de resultados a través del sistema TREP es ejecutado por personal del OEP de forma unilateral, sin controles de jurados/as electorales, organizaciones políticas o misiones de observación."
             },
             "item3": {
               "titulo": "¿Cómo funciona la TREP?",
@@ -400,7 +400,7 @@
     "titulo": "Preguntas frecuentes",
     "items": {
       "item1": {
-        "titulo": "¿Por qué hay personas fallecidas habilitadas en el padrón electoral?",
+        "titulo": "¿Por qué hay personas fallecidas en el padrón electoral?",
         "descripcion": "La actualización del padrón electoral no es automática ni inmediata, por este motivo existen personas fallecidas incluidas en él y en las listas electorales.{0} Para depurar familiares fallecidos/as del padrón que según la {1} estén habilitados/as para votar, debes presentar una declaración jurada de acuerdo a lo descrito {2}.{0} Si un/a fallecido/ no hubiera sido depurado/a hasta el día de la elección no quiere decir que se vayan a emitir votos por el/ella, pues los/as jurados/as de su mesa controlarán que nadie se presente para votar suplantando su identidad y registrarán las inasistencias en la lista y el acta electoral de la mesa.",
         "link": {
           "texto": "página de consulta del OEP",
@@ -413,7 +413,7 @@
       },
       "item2": {
         "titulo": "¿Qué pasa si no me presento a votar?",
-        "descripcion": "Si no acudes a votar el día de la elección, no podrás obtener el certificado de sufragio que es un requisito necesario para que puedas efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte durante 90 después de la jornada electoral.{0} En caso de que no hayas podido asistir a votar por caso fortuito o razones de fuerza mayor, podrás gestionar un certificado de impedimento de sufragio presentando documentación de respaldo en las oficinas de tu Tribunal Electoral Departamental y cumpliendo los pasos del trámite que te comuniquen en esta institución. Una vez te lo entreguen, este certificado tendrá un uso equivalente al del certificado de sufragio.{0} En caso de no tener los respaldos suficientes para obtener el certificado de impedimento de sufragio y tu solicitud fuera rechazada, deberás pagar una multa por inasistencia a la jornada electoral cumpliendo las instrucciones que te comunique el tribunal departamental."
+        "descripcion": "Si no acudes a votar el día de la elección, no podrás obtener el certificado de sufragio que es un requisito necesario para que puedas efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte durante 90 días después de la jornada electoral.{0} En caso de que no hayas podido asistir a votar por caso fortuito o razones de fuerza mayor, podrás gestionar un certificado de impedimento de sufragio presentando documentación de respaldo en las oficinas de tu Tribunal Electoral Departamental y cumpliendo los pasos del trámite que te comuniquen en esta institución. Una vez te lo entreguen, este certificado tendrá un uso equivalente al del certificado de sufragio.{0} En caso de no tener los respaldos suficientes para obtener el certificado de impedimento de sufragio y tu solicitud fuera rechazada, deberás pagar una multa por inasistencia a la jornada electoral cumpliendo las instrucciones que te comunique el tribunal departamental."
       },
       "item3": {
         "titulo": "¿Es cierto que el voto rural vale más que el voto urbano?",
