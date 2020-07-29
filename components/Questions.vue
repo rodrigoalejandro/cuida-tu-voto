@@ -160,7 +160,7 @@ export default {
 }
 
 .Response {
-  background-color: #ededed;
+  background-color: $bgGray;
   padding: 15px 20px;
   font-size: .8rem;
 }

@@ -258,7 +258,7 @@ export default {
   }
 
   .card {
-    background-color: #ededed;
+    background-color: $bgGray;
     margin: 0 0 10px;
   }
 }
