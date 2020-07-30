@@ -23,7 +23,7 @@
             },
             "item2": {
               "titulo": "¿Debo estar inscrito/a para poder votar?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-elector.jpg",
               "descripcion": "Para participar en las elecciones y votar debes estar inscrito/a en el padrón electoral. En base al domicilio registrado en el padrón, el OEP nos asigna una circunscripción, recinto y mesa de votación. Todo/as nos debemos empadronar por única vez cuando cumplimos 18 años y actualizar este registro en caso de cambiar de domicilio. {0} Para las elecciones 2020 la actualización de domicilios en el padrón concluyó el 26 de enero, y el empadronamiento de nuevos/as electores/as que cumplan 18 años hasta el día de la votación concluyó el 17 de julio."
             },
             "item3": {
@@ -52,7 +52,7 @@
             },
             "item7": {
               "titulo": "¿Cómo puedo cuidar mi voto?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha7-elector.jpg",
               "descripcion": "Los resultados de la elección son públicos y tienes derecho de conocerlos, verificarlos y controlarlos mediante los mecanismos habilitados por el OEP en su {1}.{0} Concluida la votación, las actas electorales de las mesas de sufragio serán escaneadas y publicadas paulatinamente en ese {2}; si deseas puedes descargar las actas, verificar la sumatoria de sus votos y cruzar esta información con la dispongas o hayas capturado por tu cuenta.",
               "link": {
                 "texto": "página web",
@@ -72,7 +72,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Quienes son los/as jurados/as?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-jurado.jpg",
               "descripcion": "Los/as jurados/as electorales son actores centrales en las elecciones. Como parte y representantes de la sociedad civil son la máxima autoridad en las mesas de sufragio; con su participación se garantiza la transparencia de la elección y el respeto a la voluntad popular.{0} Cada mesa de sufragio tiene 3 jurados/as titulares (incluido/a 1 presidente/a) y 3 suplentes que la administran desde su inicio hasta el computo de sus votos; todos/as jurados/as son electores/as en su misma mesa. Una mesa debe tener al menos 3 jurados/as presentes para poder funcionar.{0} Conoce todo lo que necesitas saber de los jurados/as electorales en este recorrido."
             },
             "item2": {
@@ -91,7 +91,7 @@
             },
             "item4": {
               "titulo": "¿Seré capacitado/a para ser jurado/a?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-jurado.jpg",
               "descripcion": "Si fuiste designado/a jurado/a electoral, serás capacitado/a por personal del OEP sobre tus funciones y los protocolos de bioseguridad que debes aplicar en la jornada electoral. Para las elecciones 2020, las capacitaciones de jurados/as se desarrollarán a partir del 10 de agosto.{0} Aprovecha estas capacitaciones para tomar nota de los protocolos de bioseguridad que deberás aplicar, conocer a los/as otros/as jurados/as que te acompañarán y elegir al jurado/a presidente/a de tu mesa.{0} A continuación, te explicamos tus funciones como jurado/a al inicio, durante y al finalizar el proceso de votación en tu mesa de sufragio."
             },
             "item5": {
@@ -101,7 +101,7 @@
             },
             "item6": {
               "titulo": "¿Cómo instalar la mesa de sufragio?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha6-jurado.jpg",
               "descripcion": "Para abrir la mesa de sufragio:{0} a. El/la presidente/a de mesa deberá recibir del/la notario/a electoral del recinto la maleta electoral, con todos los materiales para que la mesa funcione y un kit de bioseguridad, con los implementos para la protección de jurados/as y electores/as.{0} b. Los/as otros/as jurados/as, deberán alistar la señalización, lista electoral, ánfora y papeletas de sufragio de la mesa.{0} c. El/la jurado/a secretario/a deberá llenar los datos de apertura de mesa en el acta electoral.{0} d. La votación en la mesa deberá iniciar a las 08:00 con la presencia de al menos 3 jurados/as. Si hasta las 9:00 no se presentan los/as jurados/as suficientes, el/la notario/a de recinto nombrará otros/as entre los/as electores presentes en la mesa."
             },
             "item7": {
@@ -168,7 +168,7 @@
             },
             "item2": {
               "titulo": "¿Qué funciones cumple el Tribunal Supremo Electoral?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-oep.jpg",
               "descripcion": "El Tribunal Supremo Electoral (TSE) es la máxima autoridad del OEP, con competencias de alcance nacional; está conformado por 7 vocales (incluido/a 1 presidente/a): 6 designados/as por la asamblea legislativa plurinacional y 1 designado/a por el presidente/a del estado. Si quieres conocer quienes son los actuales vocales del TSE puedes ingresar {1}.{0} El TSE tiene como función principal organizar, dirigir, supervisar, administrar y ejecutar procesos electorales, referendos y revocatorias de mandato de nacionales, departamentales, regionales y municipales.{0} De esta función se desprenden sus competencias más operativas, como efectuar convocatorias, aprobar y dar cumplimiento a calendarios electorales, realizar el cómputo final y proclamar los resultados electorales oficiales de procesos de alcance nacional, entre otros.",
               "link": {
                 "texto": "aquí",
@@ -182,7 +182,7 @@
             },
             "item4": {
               "titulo": "¿Qué funciones cumplen los/as notarios/as electorales?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-oep.jpg",
               "descripcion": "Los/as notarios/as electorales son autoridades designadas por los Tribunales Electorales Departamentales y el Tribunal Supremo Electoral para asesorar, supervisar, brindar apoyo logístico y dar fe de los actos desarrollados durante la jornada electoral en los recintos de votación.{0} En este sentido, algunas de sus funciones son recibir, custodiar y entregar el material electoral a los Tribunales Departamentales Electorales y jurados/as electorales, orientar y atender requerimientos y reclamos de los/as electores durante la jornada de votación, entre otros."
             }
           }
@@ -251,7 +251,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el material electoral?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-material.jpg",
               "descripcion": "El material electoral es el material provisto por el OEP necesario para que los/as jurados/as electorales y electores desarrollen la votación y escrutinio de votos. Estos materiales, según su uso se clasifica en:{0} a. Fungibles: materiales que se emplean y consumen con su uso el mismo día de votación, debiendo ser desechados.{0} b. No fungibles: materiales empleados el día de la votación y que permiten certificar la participación de la población y los resultados electorales, debiendo ser preservados por los Tribunales Electorales Departamentales.{0} c. Reutilizables: los útiles electorales que pueden reciclarse y usarse nuevamente en futuros procesos.{0} Al inicio de la jornada electoral, los Tribunales Electorales Departamentales distribuyen el material a los/as notarios/as de recinto y ellos/as a los/as jurados/as electorales; concluida la jornada, los/as jurados/as devuelven el material a los/as notarios/as y estos/as a los tribunales departamentales. A esta secuencia se la llama cadena de custodia.{0} A continuación, todo lo que necesitas conocer sobre los materiales electorales."
             },
             "item2": {
@@ -275,7 +275,7 @@
             },
             "item5": {
               "titulo": "¿Qué son las listas electorales?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha5-material.jpg",
               "descripcion": "En la jornada electoral, se utilizan dos tipos de listas electorales por cada mesa de sufragio:{0} a. La lista de habilitados/as con sus datos y fotografía, en la que los/as electores asistentes y habilitados/as deben firmar e imprimir su huella.{0} b. La lista de inhabilitados/as con sus datos, fotografía y motivos de su inhabilitación.{0} En base a estas listas, los/as jurados/as electorales deben verificar la identidad, permitir la participación y controlar la asistencia de los/as electores en su mesa.{0} Las listas electorales al contener el registro de asistencia o inasistencia de electores certificados por los/as jurados/as deben ser preservadas como material no fungible."
             },
             "item6": {
@@ -302,8 +302,8 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es la TREP?",
-              "imagen": "ficha3-elector.png",
-              "descripcion": "La Transmisión de Resultados Electorales Preliminares (TREP) es una herramienta que permite difundir el día de la votación, en el menor tiempo posible y de forma preliminar, resultados electorales referenciales sin valor oficial (no vinculantes). Estos resultados preliminares son reportados en el {1} a la conclusión de la jornada electoral y de forma paulatina.{0} El sistema TREP no tiene efectos legales, prioriza la inmediatez sobre la precisión de los resultados, no contempla medidas de control o seguridad y funciona de manera totalmente independiente al cómputo oficial de resultados electorales.",
+              "imagen": "ficha1-trep.jpg",
+              "descripcion": "La Transmisión de Resultados Electorales Preliminares (TREP) es un reporte de datos que permite difundir en el día de la votación, en el menor tiempo posible y de forma preliminar, resultados electorales referenciales sin valor oficial (no vinculantes). Estos resultados preliminares son reportados en el {1} a la conclusión de la jornada electoral y de forma paulatina.{0} El sistema TREP no tiene efectos legales, prioriza la inmediatez sobre la precisión de los resultados, no contempla medidas de control o seguridad y funciona de manera totalmente independiente al cómputo oficial de resultados electorales.",
               "link": {
                 "texto": "portal del OEP",
                 "url": "https://www.oep.org.bo/"
@@ -333,7 +333,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el cómputo oficial?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-computo.jpg",
               "descripcion": "El cómputo oficial es el conjunto de procedimientos mediante los que se revisan, validan y publican los resultados electorales oficiales (vinculantes) de una elección. El cómputo es un proceso público y participativo en todas sus etapas: {0} a. Cómputo de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP."
             },
             "item2": {
