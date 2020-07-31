@@ -6,17 +6,22 @@
         <h2 class="Category--title">
           {{ $t(`categorias.${section}.items.${token.key}.titulo`) }}
         </h2>
-        <p
-          v-for="(item, key) in token.fichas"
-          v-show="key === currentToken"
-          :key="key"
-          class="Category--subtitle"
-        >
-          <span class="avatar avatar-lg info">
-            {{ key.replace('item', '') }}
-          </span>
-          {{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.titulo`) }}
-        </p>
+        <div class="Token--hidden">
+          <div>
+            <p
+              v-for="(item, key) in token.fichas"
+              v-show="key === currentToken"
+              :key="key"
+              class="Category--subtitle animate__animated"
+              :class="{ [item.animateIn]: !!item.animateIn, [item.animateOut]: !!item.animateOut, up: key === currentToken, down: key !== currentToken }"
+            >
+              <span class="avatar avatar-lg info">
+                {{ key.replace('item', '') }}
+              </span>
+              {{ $t(`categorias.${section}.items.${token.key}.fichas.${key}.titulo`) }}
+            </p>
+          </div>
+        </div>
         <div class="carousel-nav">
           <label
             v-for="(item, key) in token.fichas"
@@ -358,6 +363,14 @@ export default {
   }
 }
 
+.Token--hidden {
+  padding: 0 50px;
+
+  & > div {
+    overflow: hidden;
+  }
+}
+
 @media (max-width: 640px) {
   .carousel {
     padding: 0 5px;
@@ -391,6 +404,9 @@ export default {
     .scroll {
       height: 220px;
     }
+  }
+  .Token--hidden {
+    padding: 0 7px;
   }
 }
 </style>
