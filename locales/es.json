@@ -23,7 +23,7 @@
             },
             "item2": {
               "titulo": "¿Debo estar inscrito/a para poder votar?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-elector.jpg",
               "descripcion": "Para participar en las elecciones y votar debes estar inscrito/a en el padrón electoral. En base al domicilio registrado en el padrón, el OEP nos asigna una circunscripción, recinto y mesa de votación. Todo/as nos debemos empadronar por única vez cuando cumplimos 18 años y actualizar este registro en caso de cambiar de domicilio. {0} Para las elecciones 2020 la actualización de domicilios en el padrón concluyó el 26 de enero, y el empadronamiento de nuevos/as electores/as que cumplan 18 años hasta el día de la votación concluyó el 17 de julio."
             },
             "item3": {
@@ -52,7 +52,7 @@
             },
             "item7": {
               "titulo": "¿Cómo puedo cuidar mi voto?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha7-elector.jpg",
               "descripcion": "Los resultados de la elección son públicos y tienes derecho de conocerlos, verificarlos y controlarlos mediante los mecanismos habilitados por el OEP en su {1}.{0} Concluida la votación, las actas electorales de las mesas de sufragio serán escaneadas y publicadas paulatinamente en ese {2}; si deseas puedes descargar las actas, verificar la sumatoria de sus votos y cruzar esta información con la dispongas o hayas capturado por tu cuenta.",
               "link": {
                 "texto": "página web",
@@ -72,7 +72,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Quienes son los/as jurados/as?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-jurado.jpg",
               "descripcion": "Los/as jurados/as electorales son actores centrales en las elecciones. Como parte y representantes de la sociedad civil son la máxima autoridad en las mesas de sufragio; con su participación se garantiza la transparencia de la elección y el respeto a la voluntad popular.{0} Cada mesa de sufragio tiene 3 jurados/as titulares (incluido/a 1 presidente/a) y 3 suplentes que la administran desde su inicio hasta el computo de sus votos; todos/as jurados/as son electores/as en su misma mesa. Una mesa debe tener al menos 3 jurados/as presentes para poder funcionar.{0} Conoce todo lo que necesitas saber de los jurados/as electorales en este recorrido."
             },
             "item2": {
@@ -91,7 +91,7 @@
             },
             "item4": {
               "titulo": "¿Seré capacitado/a para ser jurado/a?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-jurado.jpg",
               "descripcion": "Si fuiste designado/a jurado/a electoral, serás capacitado/a por personal del OEP sobre tus funciones y los protocolos de bioseguridad que debes aplicar en la jornada electoral. Para las elecciones 2020, las capacitaciones de jurados/as se desarrollarán a partir del 10 de agosto.{0} Aprovecha estas capacitaciones para tomar nota de los protocolos de bioseguridad que deberás aplicar, conocer a los/as otros/as jurados/as que te acompañarán y elegir al jurado/a presidente/a de tu mesa.{0} A continuación, te explicamos tus funciones como jurado/a al inicio, durante y al finalizar el proceso de votación en tu mesa de sufragio."
             },
             "item5": {
@@ -101,7 +101,7 @@
             },
             "item6": {
               "titulo": "¿Cómo instalar la mesa de sufragio?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha6-jurado.jpg",
               "descripcion": "Para abrir la mesa de sufragio:{0} a. El/la presidente/a de mesa deberá recibir del/la notario/a electoral del recinto la maleta electoral, con todos los materiales para que la mesa funcione y un kit de bioseguridad, con los implementos para la protección de jurados/as y electores/as.{0} b. Los/as otros/as jurados/as, deberán alistar la señalización, lista electoral, ánfora y papeletas de sufragio de la mesa.{0} c. El/la jurado/a secretario/a deberá llenar los datos de apertura de mesa en el acta electoral.{0} d. La votación en la mesa deberá iniciar a las 08:00 con la presencia de al menos 3 jurados/as. Si hasta las 9:00 no se presentan los/as jurados/as suficientes, el/la notario/a de recinto nombrará otros/as entre los/as electores presentes en la mesa."
             },
             "item7": {
@@ -168,7 +168,7 @@
             },
             "item2": {
               "titulo": "¿Qué funciones cumple el Tribunal Supremo Electoral?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-oep.jpg",
               "descripcion": "El Tribunal Supremo Electoral (TSE) es la máxima autoridad del OEP, con competencias de alcance nacional; está conformado por 7 vocales (incluido/a 1 presidente/a): 6 designados/as por la asamblea legislativa plurinacional y 1 designado/a por el presidente/a del estado. Si quieres conocer quienes son los actuales vocales del TSE puedes ingresar {1}.{0} El TSE tiene como función principal organizar, dirigir, supervisar, administrar y ejecutar procesos electorales, referendos y revocatorias de mandato de nacionales, departamentales, regionales y municipales.{0} De esta función se desprenden sus competencias más operativas, como efectuar convocatorias, aprobar y dar cumplimiento a calendarios electorales, realizar el cómputo final y proclamar los resultados electorales oficiales de procesos de alcance nacional, entre otros.",
               "link": {
                 "texto": "aquí",
@@ -182,7 +182,7 @@
             },
             "item4": {
               "titulo": "¿Qué funciones cumplen los/as notarios/as electorales?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha4-oep.jpg",
               "descripcion": "Los/as notarios/as electorales son autoridades designadas por los Tribunales Electorales Departamentales y el Tribunal Supremo Electoral para asesorar, supervisar, brindar apoyo logístico y dar fe de los actos desarrollados durante la jornada electoral en los recintos de votación.{0} En este sentido, algunas de sus funciones son recibir, custodiar y entregar el material electoral a los Tribunales Departamentales Electorales y jurados/as electorales, orientar y atender requerimientos y reclamos de los/as electores durante la jornada de votación, entre otros."
             }
           }
@@ -251,7 +251,7 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el material electoral?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-material.jpg",
               "descripcion": "El material electoral es el material provisto por el OEP necesario para que los/as jurados/as electorales y electores desarrollen la votación y escrutinio de votos. Estos materiales, según su uso se clasifica en:{0} a. Fungibles: materiales que se emplean y consumen con su uso el mismo día de votación, debiendo ser desechados.{0} b. No fungibles: materiales empleados el día de la votación y que permiten certificar la participación de la población y los resultados electorales, debiendo ser preservados por los Tribunales Electorales Departamentales.{0} c. Reutilizables: los útiles electorales que pueden reciclarse y usarse nuevamente en futuros procesos.{0} Al inicio de la jornada electoral, los Tribunales Electorales Departamentales distribuyen el material a los/as notarios/as de recinto y ellos/as a los/as jurados/as electorales; concluida la jornada, los/as jurados/as devuelven el material a los/as notarios/as y estos/as a los tribunales departamentales. A esta secuencia se la llama cadena de custodia.{0} A continuación, todo lo que necesitas conocer sobre los materiales electorales."
             },
             "item2": {
@@ -275,7 +275,7 @@
             },
             "item5": {
               "titulo": "¿Qué son las listas electorales?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha5-material.jpg",
               "descripcion": "En la jornada electoral, se utilizan dos tipos de listas electorales por cada mesa de sufragio:{0} a. La lista de habilitados/as con sus datos y fotografía, en la que los/as electores asistentes y habilitados/as deben firmar e imprimir su huella.{0} b. La lista de inhabilitados/as con sus datos, fotografía y motivos de su inhabilitación.{0} En base a estas listas, los/as jurados/as electorales deben verificar la identidad, permitir la participación y controlar la asistencia de los/as electores en su mesa.{0} Las listas electorales al contener el registro de asistencia o inasistencia de electores certificados por los/as jurados/as deben ser preservadas como material no fungible."
             },
             "item6": {
@@ -302,8 +302,8 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es la TREP?",
-              "imagen": "ficha3-elector.png",
-              "descripcion": "La Transmisión de Resultados Electorales Preliminares (TREP) es una herramienta que permite difundir el día de la votación, en el menor tiempo posible y de forma preliminar, resultados electorales referenciales sin valor oficial (no vinculantes). Estos resultados preliminares son reportados en el {1} a la conclusión de la jornada electoral y de forma paulatina.{0} El sistema TREP no tiene efectos legales, prioriza la inmediatez sobre la precisión de los resultados, no contempla medidas de control o seguridad y funciona de manera totalmente independiente al cómputo oficial de resultados electorales.",
+              "imagen": "ficha1-trep.jpg",
+              "descripcion": "La Transmisión de Resultados Electorales Preliminares (TREP) es un reporte de datos que permite difundir en el día de la votación, en el menor tiempo posible y de forma preliminar, resultados electorales referenciales sin valor oficial (no vinculantes). Estos resultados preliminares son reportados en el {1} a la conclusión de la jornada electoral y de forma paulatina.{0} El sistema TREP no tiene efectos legales, prioriza la inmediatez sobre la precisión de los resultados, no contempla medidas de control o seguridad y funciona de manera totalmente independiente al cómputo oficial de resultados electorales.",
               "link": {
                 "texto": "portal del OEP",
                 "url": "https://www.oep.org.bo/"
@@ -317,7 +317,7 @@
             "item3": {
               "titulo": "¿Cómo funciona la TREP?",
               "imagen": "ficha3-trep.jpg",
-              "descripcion": "Cada operador de registro TREP, dependiente del SERECI, ingresa a la aplicación móvil de este sistema (en su celular) y:{0} a. Saca fotografías a las actas electorales (originales o copias) que hayan sido llenadas en las mesas de su recinto.{0} b. Sube las fotografías al sistema.{0} c. Tabula los resultados registrados en las actas (sin considerar aclaraciones, correcciones u observaciones anotadas en ellas).{0} d. Finaliza y guarda el registro.{0} Para actualizar esta información en el portal del OEP, los operadores deberán disponer de conexión a internet. Si un operador no la tuviera, puede seguir registrando información en la aplicación pues sus registros serán actualizados de golpe una vez consiga una conexión; por lo general esta actualización tardía y de golpe sucede con registros de zonas rurales debido a su conectividad intermitente."
+              "descripcion": "Cada operador de registro TREP, dependiente del SERECI, ingresa a la aplicación móvil de este sistema (en su celular) y:{0} a. Saca fotografías a las actas electorales (originales o copias) que hayan sido llenadas en las mesas de su recinto.{0} b. Sube las fotografías al sistema.{0} c. Tabula los resultados registrados en las actas (sin considerar aclaraciones, correcciones u observaciones anotadas en ellas).{0} d. Finaliza y guarda el registro.{0} e. Actualiza y publica, a través de internet, la información en el portal del OEP. {0} Por lo general, los datos electorales de las zonas rurales son los últimos en ser publicados en el portal del OEP debido al internet intermitente de estas regiones. La información que es registrada en la aplicación móvil por los/as operadores TREP de zonas rurales sin internet, es actualizada en el portal de golpe y de forma tardía, una vez que el/la operador consigue una conexión."
             },
             "item4": {
               "titulo": "¿Qué fin y alcance tiene la TREP?",
@@ -333,12 +333,12 @@
           "fichas": {
             "item1": {
               "titulo": "¿Qué es el cómputo oficial?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha1-computo.jpg",
               "descripcion": "El cómputo oficial es el conjunto de procedimientos mediante los que se revisan, validan y publican los resultados electorales oficiales (vinculantes) de una elección. El cómputo es un proceso público y participativo en todas sus etapas: {0} a. Cómputo de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP."
             },
             "item2": {
               "titulo": "¿Quiénes operan el cómputo oficial?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha2-computo.jpg",
               "descripcion": "El cómputo oficial es gestionado por:{0} a. Jurados/as electorales: encargados del escrutinio de votos y registro de resultados de las mesas de sufragio en las actas electorales.{0} b. Vocales de los Tribunales Electorales Departamentales: encargados de centralizar, revisar y validar el cómputo de actas y resultados de su departamento, y enviarlos al Tribunal Supremo Electoral mediante el acta de cómputo departamental.{0} c. Vocales del Tribunal Supremo Electoral: encargados de centralizar y validar las actas departamentales enviadas por los tribunales departamentales, elaborar el acta de cómputo nacional, y publicar en el portal del OEP los resultados computados hasta alcanzar el 100% del conteo nacional.{0} d. Organizaciones políticas: encargadas de hacer seguimiento y validar el cómputo de actas y resultados electorales en todas sus etapas, desplegando a sus delegados/as en cada una de ellas."
             },
             "item3": {
@@ -349,7 +349,7 @@
             "item4": {
               "titulo": "¿Cómo se desarrolla el cómputo departamental?",
               "imagen": "ficha4-computo.jpg",
-              "descripcion": "A medida que las actas electorales son entregadas a los Tribunales Electorales Departamentales por los/as notarios/as de recinto (las actas de zonas rurales son siempre las últimas en llegar y ser computadas), el cómputo departamental se desarrolla cumpliendo estos pasos:{0} a. Los/as vocales de cada tribunal departamental a las 18:00 del día de la elección, en instalaciones propias o alquiladas, inician el cómputo departamental en sesión pública y en presencia de delegados/as de organizaciones políticas y misiones de observación.{0} b. Los/as vocales y los/as delegados/as de organizaciones revisan una por una, cada acta electoral (original) de su departamento, verifican los resultados y aclaraciones registradas por los/as jurados/as en ellas y aprueban su registro en el sistema informático del cómputo oficial; en este proceso los/as delegados de organizaciones políticas comparan las actas originales con las copias que disponen, pudiendo denunciar inconsistencias y solicitar aclaraciones.{0} c. Una vez aprobada, cada acta es escaneada, cargada, tabulada (considerando sus aclaraciones) y publicada en el sistema de cómputo, en presencia de delegados/as de organizaciones y observadores/as.{0} d. Computadas todas las actas del departamento, los vocales del tribunal departamental firman el acta de cómputo departamental con los resultados finales. {0} e. El acta de cómputo departamental es enviada en original al Tribunal Supremo Electoral y entregada en copias a los/as delegados/as de las organizaciones políticas."
+              "descripcion": "A medida que las actas electorales son entregadas a los Tribunales Electorales Departamentales por los/as notarios/as de recinto, el cómputo departamental se desarrolla cumpliendo estos pasos:{0} a. Los/as vocales de cada tribunal departamental a las 18:00 del día de la elección, en instalaciones propias o alquiladas, inician el cómputo departamental en sesión pública y en presencia de delegados/as de organizaciones políticas y misiones de observación.{0} b. Los/as vocales y los/as delegados/as de organizaciones revisan una por una, cada acta electoral (original) de su departamento, verifican los resultados y aclaraciones registradas por los/as jurados/as en ellas y aprueban su registro en el sistema informático del cómputo oficial; en este proceso los/as delegados de organizaciones políticas comparan las actas originales con las copias que disponen, pudiendo denunciar inconsistencias y solicitar aclaraciones.{0} c. Una vez aprobada, cada acta es escaneada, cargada, tabulada (considerando sus aclaraciones) y publicada en el sistema de cómputo, en presencia de delegados/as de organizaciones y observadores/as. A medida que las actas son cargadas, sus resultados se actualizan en el portal del OEP.{0} d. Computadas todas las actas del departamento, los vocales del tribunal departamental firman el acta de cómputo departamental con los resultados finales. {0} e. El acta de cómputo departamental es enviada en original al Tribunal Supremo Electoral y entregada en copias a los/as delegados/as de las organizaciones políticas.{0} Por temas de distancia y traslado, las actas y resultados electorales de las zonas rurales son siempre los últimos en ser entregados y computados en los tribunales departamentales."
             },
             "item5": {
               "titulo": "¿Cómo se desarrolla el cómputo nacional?",
@@ -362,13 +362,13 @@
             },
             "item6": {
               "titulo": "¿Cómo se realiza la proclamación de resultados?",
-              "imagen": "ficha3-elector.png",
+              "imagen": "ficha6-computo.jpg",
               "descripcion": "Emitida el acta de cómputo nacional, el Tribunal Supremo Electoral se realiza la proclamación de los resultados oficiales y los/as ganadores de la elección.{0} Un candidato/a será proclamado/a como ganador/a si hubiera superado el 50% de los votos válidos emitidos o si hubiera superado el 40% con una diferencia igual o mayor al 10% con el/la siguiente candidato/a. Si no se cumplen estas condiciones se desarrollará una segunda vuelta entre las dos candidaturas más votadas en el plazo máximo de 60 días después de la primera votación.{0} Los escaños de la asamblea legislativa plurinacional se distribuyen por organización política de acuerdo a los porcentajes obtenidos por su candidato/a a presidente en la elección."
             },
             "item7": {
               "titulo": "¿Qué fin y alcance tiene el cómputo oficial?",
-              "imagen": "ficha3-elector.png",
-              "descripcion": "El fin del cómputo oficial es establecer de forma vinculante y precisa los resultados finales de la votación, priorizando la integridad de los datos sobre su inmediatez.{0} El procesamiento de las actas electorales y el cómputo de sus resultados involucra una serie de actores y etapas públicas de control que garantizan la transparencia y seguridad del proceso, la preservación de la voluntad popular y la exactitud de los resultados electorales, oficiales y vinculantes.{0} El cómputo oficial está legalmente reconocido y validado por la Ley 018 del Órgano Electoral Plurinacional y la Ley 026 de Régimen Electoral."
+              "imagen": "ficha7-computo.jpg",
+              "descripcion": "El fin del cómputo oficial es establecer y declarar de forma vinculante y definitiva a los/as ganadores/as de la elección y los resultados finales de la votación, priorizando la integridad y exactitud de los datos sobre su inmediatez.{0} El procesamiento de las actas electorales y el cómputo de sus resultados involucra una serie de actores y etapas públicas de control que garantizan la transparencia y seguridad del proceso, la preservación de la voluntad popular y la exactitud de los resultados electorales, oficiales y vinculantes.{0} El cómputo oficial está legalmente reconocido y validado por la Ley 018 del Órgano Electoral Plurinacional y la Ley 026 de Régimen Electoral."
             }
           }
         }
@@ -379,19 +379,47 @@
     "titulo": "Elecciones en pandemia",
     "items": {
       "item1": {
-        "titulo": "¿Es posible realizar elecciones durante la pandemia?",
-        "descripcion": "Claro que es posible. Hasta julio de 2020 al menos 49 países y territorios, aplicando medidas de bioseguridad, celebraron elecciones nacionales o subnacionales en plena pandemia; a continuación te damos el detalle de estos procesos electorales:{0} -En febrero de 2020 se celebraron elecciones parlamentarias en Irán, elecciones parciales en Taiwán, elecciones presidenciales en Togo y elecciones generales en Eslovaquia.{0} -En marzo de 2020 se celebraron elecciones locales en Queensland - Australia, elecciones locales en Bangladesh, elecciones parlamentarias en Camerún, elecciones del consejo en Canadá, elecciones municipales en República Dominicana, elecciones locales en Francia, elecciones locales en Baviera - Alemania, elecciones legislativas y referéndum constitucional en Guinea, elecciones generales en Guyana, elecciones generales en Seanad - Irlanda, elecciones legislativas en Israel, elecciones generales en Mali, elecciones locales en Hâncești - Moldavia, elecciones parciales en Polonia, elecciones locales en Lucerna - Suiza, elecciones de presidente de kuomintang en Taiwán, elecciones parlamentarias en Tayikistán, elecciones parciales en Kharkiv - Ucrania, elecciones primarias en Arizona, Florida e Illinois - EEUU y elecciones generales en Vanuatu.{0} -En abril de 2020 se celebraron elecciones locales en Japón, elecciones parlamentarias en Kiribati, la segunda vuelta de elecciones parlamentarias en Malí, elecciones parlamentarias en Corea del Sur, la segunda vuelta de elecciones municipales en Ginebra - Suiza, elecciones primarias en Wisconsin - EEUU, elección especial del congreso en Maryland - EEUU y elecciones primarias en Ohio - EEUU.{0} -En mayo de 2020 se celebraron elecciones locales en Benin, elecciones presidenciales en Burundi, elección de los consejos legislativos de Maharashtra - India, elección del gobierno local de Cross River - Nigeria, elecciones generales en Niue y elecciones generales en Surinam.{0} -En junio de 2020 se celebraron elecciones primarias en 8 estados de EEUU, elecciones parciales del senado en República Checa, votación de retiro municipal en Taiwán, elecciones de la asamblea nacional en Saint Kitts y Nevis, elecciones primarias en Georgia, Nevada, Dakota del Norte, Carolina del Sur y Virginia Occidental - EEUU, elecciones en Rajya Sabha - India, elecciones parlamentarias, provinciales y locales en Serbia, nueva elección presidencial en Malawi, elecciones parlamentarias en Mongolia, elecciones presidenciales en Islandia, elecciones municipales de Estiria - Austria, la segunda vuelta de elecciones locales en Francia y elecciones presidenciales en Polonia.{0} -En julio de 2020 se celebró un referéndum constitucional en Rusia, elecciones parciales federales en Nueva Gales del Sur - Australia, elecciones de la asamblea estatal en el estado de Pahang - Malasia, elecciones parlamentarias en Croacia, elecciones gubernamentales en Tokio - Japón, elecciones presidenciales y legislativas en República Dominicana, elecciones municipales en Hassi El Ferid - Túnez, elecciones parlamentarias en Singapur, la segunda vuelta de elecciones presidenciales en Polonia, elecciones regionales en País Vasco y Galicia - España, elecciones primarias y segunda vuelta en Texas, Alabama y Maine - EEUU, elecciones parlamentarias en Macedonia del Norte y elecciones parlamentarias en Siria.{0} Estos datos se encuentran en el {1} sobre desarrollo de elecciones en tiempos de pandemia, publicado por el instituto internacional de asistencia electoral IDEA.",
+        "titulo": "¿Qué países y territorios celebraron elecciones durante la pandemia?",
+        "descripcion": "Según el {1} sobre desarrollo de elecciones en tiempos de pandemia, publicado por el instituto internacional de asistencia electoral IDEA, los procesos electorales que se celebraron durante la pandemia (hasta julio 2020) a nivel mundial son:{0} -En febrero de 2020 se celebraron elecciones parlamentarias en Irán, elecciones parciales en Taiwán, elecciones presidenciales en Togo y elecciones generales en Eslovaquia.{0} -En marzo de 2020 se celebraron elecciones locales en Queensland - Australia, elecciones locales en Bangladesh, elecciones parlamentarias en Camerún, elecciones del consejo en Canadá, elecciones municipales en República Dominicana, elecciones locales en Francia, elecciones locales en Baviera - Alemania, elecciones legislativas y referéndum constitucional en Guinea, elecciones generales en Guyana, elecciones generales en Seanad - Irlanda, elecciones legislativas en Israel, elecciones generales en Mali, elecciones locales en Hâncești - Moldavia, elecciones parciales en Polonia, elecciones locales en Lucerna - Suiza, elecciones de presidente de kuomintang en Taiwán, elecciones parlamentarias en Tayikistán, elecciones parciales en Kharkiv - Ucrania, elecciones primarias en Arizona, Florida e Illinois - EEUU y elecciones generales en Vanuatu.{0} -En abril de 2020 se celebraron elecciones locales en Japón, elecciones parlamentarias en Kiribati, la segunda vuelta de elecciones parlamentarias en Malí, elecciones parlamentarias en Corea del Sur, la segunda vuelta de elecciones municipales en Ginebra - Suiza, elecciones primarias en Wisconsin - EEUU, elección especial del congreso en Maryland - EEUU y elecciones primarias en Ohio - EEUU.{0} -En mayo de 2020 se celebraron elecciones locales en Benin, elecciones presidenciales en Burundi, elección de los consejos legislativos de Maharashtra - India, elección del gobierno local de Cross River - Nigeria, elecciones generales en Niue y elecciones generales en Surinam.{0} -En junio de 2020 se celebraron elecciones primarias en 8 estados de EEUU, elecciones parciales del senado en República Checa, votación de retiro municipal en Taiwán, elecciones de la asamblea nacional en Saint Kitts y Nevis, elecciones primarias en Georgia, Nevada, Dakota del Norte, Carolina del Sur y Virginia Occidental - EEUU, elecciones en Rajya Sabha - India, elecciones parlamentarias, provinciales y locales en Serbia, nueva elección presidencial en Malawi, elecciones parlamentarias en Mongolia, elecciones presidenciales en Islandia, elecciones municipales de Estiria - Austria, la segunda vuelta de elecciones locales en Francia y elecciones presidenciales en Polonia.{0} -En julio de 2020 se celebró un referéndum constitucional en Rusia, elecciones parciales federales en Nueva Gales del Sur - Australia, elecciones de la asamblea estatal en el estado de Pahang - Malasia, elecciones parlamentarias en Croacia, elecciones gubernamentales en Tokio - Japón, elecciones presidenciales y legislativas en República Dominicana, elecciones municipales en Hassi El Ferid - Túnez, elecciones parlamentarias en Singapur, la segunda vuelta de elecciones presidenciales en Polonia, elecciones regionales en País Vasco y Galicia - España, elecciones primarias y segunda vuelta en Texas, Alabama y Maine - EEUU, elecciones parlamentarias en Macedonia del Norte y elecciones parlamentarias en Siria.",
         "link": {
           "texto": "reporte actualizado",
           "url": "https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections#ELECTIONS%20HELD%20AMID%20COVID-19."
         }
       },
       "item2": {
-        "titulo": "¿La celebración de elecciones en pandemia incrementa los contagios por COVID-19?",
-        "descripcion": "Según el {1} sobre la celebración de elecciones en tiempos de pandemia publicado por el instituto internacional de asistencia electoral IDEA, los países y territorios que realizaron procesos electorales en plena pandemia aplicando medidas adecuadas de bioseguridad, no experimentaron cambios o incrementos en las tendencias de sus curvas de contagio.",
+        "titulo": "¿Es posible celebrar elecciones en pandemia de forma segura?",
+        "descripcion": "Tal como lo demostraron los procesos electorales desarrollados en los últimos meses a nivel mundial, aplicando medidas de bioseguridad adecuadas, es posible celebrar elecciones nacionales, locales o referendos durante la pandemia de forma segura y exitosa. Según {1} del instituto internacional de asistencia electoral IDEA, este año:{0} a. Al menos 49 países y territorios decidieron celebrar sus elecciones según su planificación original (sin postergar su realización) y aplicando medidas de bioseguridad.{0} b. Al menos 14 países y territorios que retrasaron sus elecciones a fin de prepararse para desarrollarlas durante la pandemia, a la fecha ya las realizaron sin mayores inconvenientes.{0} Bolivia es el único país en el mundo que retrasó la celebración de sus elecciones 3 veces y hasta el momento no las ha realizado.",
         "link": {
-          "texto": "reporte actualizado",
+          "texto": "reporte",
           "url": "https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections#ELECTIONS%20HELD%20AMID%20COVID-19."
+        }
+      },
+      "item3": {
+        "titulo": "La realización de elecciones en pandemia ¿incrementa los contagios por COVID-19?",
+        "descripcion": "Según {1} del instituto internacional de asistencia electoral IDEA basado en {2} sobre tasas de contagio de COVID-19, los países y territorios que realizaron procesos electorales en plena pandemia aplicando medidas adecuadas de bioseguridad, no reportaron cambios o incrementos en sus tendencias de contagio por la realización de elecciones.",
+        "link": {
+          "texto": "reporte",
+          "url": "https://www.idea.int/news-media/multimedia-reports/global-overview-covid-19-impact-elections#ELECTIONS%20HELD%20AMID%20COVID-19."
+        },
+        "link2": {
+          "texto": "datos de la Organización Mundial de la Salud",
+          "url": "https://covid19.who.int/?gclid=Cj0KCQjww_f2BRC-ARIsAP3zarFvnFxWSnqmCWbNVAt4eVOwc65KJfoMgVEn0dPcFBykBReadwRZ24gaAnErEALw_wcB"
+        }
+      },
+      "item4": {
+        "titulo": "¿Qué medidas de bioseguridad se deben aplicar en las elecciones?",
+        "descripcion": "No existe un estándar internacional de protocolos de bioseguridad para procesos electorales. Las medidas de cuidado aplicadas en elecciones durante la pandemia del COVID-19 varían de un país o territorio a otro de acuerdo a sus particularidades y recursos disponibles.{0} En {1} del portal digital “La Tercera”, se detallan algunas prácticas aplicadas en Corea del Sur, Rusia, República Dominicana o Estados Unidos que contemplan el uso obligatorio de barbijos, votación en espacios abiertos y normas estrictas de distanciamiento en las filas de electores.{0} En Bolivia los protocolos correspondientes serán comunicados por el Tribunal Supremo Electoral; algunas recomendaciones de cuidado para electoras/as las encuentras {2} y para jurados/as electorales las tienes {3}.",
+        "link": {
+          "texto": "esta publicación",
+          "url": "https://www.latercera.com/mundo/noticia/elecciones-en-pandemia-las-medidas-que-toman-los-paises/MMUS2FFU2JAMZLASS23MMELXP4/"
+        },
+        "link2": {
+          "texto": "aquí",
+          "url": "https://cuidatuvoto.org/protagonistas/elector"
+        },
+        "link3": {
+          "texto": "acá",
+          "url": "https://cuidatuvoto.org/protagonistas/jurado-electoral"
         }
       }
     }
