@@ -6,7 +6,10 @@
     <nuxt-link :to="localePath('/')">
       <h1>{{ $t('titulo') }}</h1>
     </nuxt-link>
-    <Lang />
+        <div class="Logo">
+      &nbsp;
+    </div>
+    <!-- <Lang /> -->
   </header>
 </template>
 

@@ -22,7 +22,7 @@
             </p>
           </div>
         </div>
-        <div class="carousel-nav">
+        <!-- <div class="carousel-nav">
           <label
             v-for="(item, key) in token.fichas"
             :key="key"
@@ -33,7 +33,7 @@
           >
             {{ key }}
           </label>
-        </div>
+        </div> -->
       </div>
     </div>
     <div class="container grid-lg" :class="{ [classFixed]: !!classFixed }">
