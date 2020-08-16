@@ -332,7 +332,7 @@
               "descripcion": "Cada operador de registro TREP, dependiente del SERECI, ingresa a la aplicación móvil de este sistema (en su celular) y:{0} a. Saca fotografías a las actas electorales (originales o copias) que hayan sido llenadas en las mesas de su recinto.{0} b. Sube las fotografías al sistema.{0} c. Tabula los resultados registrados en las actas (sin considerar aclaraciones, correcciones u observaciones anotadas en ellas).{0} d. Finaliza y guarda el registro.{0} e. Actualiza y publica, a través de internet, la información en el portal del OEP. {0} Por lo general, los datos electorales de las zonas rurales son los últimos en ser publicados en el portal del OEP debido al internet intermitente de estas regiones. La información que es registrada en la aplicación móvil por los/as operadores TREP de zonas rurales sin internet, es actualizada en el portal de golpe y de forma tardía, una vez que el/la operador consigue una conexión.{0} *Referencias: Reglamento elecciones (2019)art. 54."
             },
             "item4": {
-              "titulo": "¿Qué fin y alcance tiene la TREP?",
+              "titulo": "¿Qué fin tiene la TREP?",
               "imagen": "ficha4-trep.jpg",
               "descripcion": "El fin del TREP es establecer tendencias de votación ante la opinión pública a la brevedad posible, priorizando, como dijimos, la inmediatez de los datos sobre su precisión.{0} La información tabulada por cada operador de registro TREP tiene muchas veces errores de llenado, no contempla aclaraciones registradas en acta y no dispone de controles o personal adicional para verificarla.{0} Por estos motivos, los resultados difundidos mediante la TREP no son vinculantes, son preliminares y pueden diferir de los resultados procesados y publicados mediante el cómputo oficial.{0} *Referencias: Reglamento estudios de opinión arts. 3, 4; Reglamento elecciones (2019) art. 52."
             }
@@ -344,9 +344,9 @@
           "enlace": "computo-oficial",
           "fichas": {
             "item1": {
-              "titulo": "¿Qué es el cómputo oficial de votos?",
+              "titulo": "¿Qué es el cómputo de votos?",
               "imagen": "ficha1-computo.jpg",
-              "descripcion": "El cómputo oficial de votos es el conjunto de procedimientos mediante los que se revisan, validan y publican los resultados electorales oficiales (vinculantes) de una elección. El cómputo es un proceso público y participativo en todas sus etapas: {0} a. Escrutinio de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP.{0} *Referencias: Ley 026 Capítulo III."
+              "descripcion": "El cómputo oficial de votos es el conjunto de procedimientos mediante los que se revisan, validan y publican los resultados electorales oficiales (vinculantes) de una elección. Las etapas del cómputo de votos, todas públicas y participativas, son: {0} a. Escrutinio de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP.{0} *Referencias: Ley 026 Capítulo III."
             },
             "item2": {
               "titulo": "¿Quiénes operan el cómputo de votos?",
@@ -378,7 +378,7 @@
               "descripcion": "Emitida el acta de cómputo nacional, el Tribunal Supremo Electoral realiza la proclamación de los resultados oficiales y los/as ganadores de la elección.{0} Un candidato/a será proclamado/a como ganador/a si hubiera superado el 50% de los votos válidos emitidos o si hubiera superado el 40% con una diferencia igual o mayor al 10% con el/la siguiente candidato/a. Si no se cumplen estas condiciones se desarrollará una segunda vuelta entre las dos candidaturas más votadas en el plazo máximo de 60 días después de la primera votación.{0} Los escaños de la asamblea legislativa plurinacional se distribuyen por organización política de acuerdo a los porcentajes obtenidos por su candidato/a a presidente en la elección.{0} *Referencias: CPE art. 166; Ley 026 arts. 52, 191."
             },
             "item7": {
-              "titulo": "¿Qué fin y alcance tiene el cómputo oficial de votos?",
+              "titulo": "¿Qué fin tiene el cómputo de votos?",
               "imagen": "ficha7-computo.jpg",
               "descripcion": "El fin del cómputo oficial de votos es establecer y declarar de forma vinculante y definitiva a los/as ganadores/as de la elección y los resultados finales de la votación, priorizando la integridad y exactitud de los datos sobre su inmediatez.{0} El procesamiento de las actas electorales y el cómputo de sus resultados involucra una serie de actores y etapas públicas de control que garantizan la transparencia y seguridad del proceso, la preservación de la voluntad popular y la exactitud de los resultados electorales, oficiales y vinculantes.{0} El cómputo oficial está legalmente reconocido y validado por la Ley 018 del Órgano Electoral Plurinacional y la Ley 026 de Régimen Electoral.{0} *Referencias: Ley 026 art 191, 252."
             }
