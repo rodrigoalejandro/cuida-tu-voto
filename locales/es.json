@@ -346,7 +346,7 @@
             "item1": {
               "titulo": "¿Qué es el cómputo de votos?",
               "imagen": "ficha1-computo.jpg",
-              "descripcion": "El cómputo oficial de votos es el conjunto de procedimientos mediante los que se revisan, validan y publican los resultados electorales oficiales (vinculantes) de una elección. Las etapas del cómputo de votos, todas públicas y participativas, son: {0} a. Escrutinio de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP.{0} *Referencias: Ley 026 Capítulo III."
+              "descripcion": "El cómputo oficial de votos es el conjunto de pasos que se siguen para revisar, validar y publicar los resultados electorales oficiales (vinculantes) de una elección. Las etapas del cómputo de votos, todas públicas y participativas, son: {0} a. Escrutinio de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente a la TREP.{0} *Referencias: Ley 026 Capítulo III."
             },
             "item2": {
               "titulo": "¿Quiénes operan el cómputo de votos?",
