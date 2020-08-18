@@ -40,7 +40,7 @@
               }
             },
             "item4": {
-              "titulo": "¿Cómo me preparo para votar?",
+              "titulo": "¿Cómo cuidar mi salud en las elecciones?",
               "imagen": "ficha4-elector.jpg",
               "descripcion": "El día de la elección todos/as debemos tomar en cuenta los protocolos de bioseguridad dispuestos por el Tribunal Supremo Electoral (horarios ampliados, diferenciados y recintos incrementados) así como las siguientes buenas prácticas:{0} a. Antes de salir de casa, lleva contigo barbijo, guantes, alcohol en gel, tu documento de identidad, un bolígrafo y los implementos que creas necesarios.{0} b. Sal de casa y acude directamente a tu recinto entre las 08:00 y 12:30 si tu número de documento de identidad termina en 0, 1, 2, 3 o 4, y entre las 12:30 y 17:00 si tu número de documento termina en 5, 6, 7, 8 o 9.{0} c. Una vez llegues a tu recinto, dirígete a tu mesa de sufragio. Si hubiera fila para votar, asegúrate de mantener al menos un metro y medio de distancia con quienes están en espera; no saludes ni converses si no es necesario.{0} d. Cuando sea tu turno, entrega tu documento de identidad al jurado de tu mesa y verifica que la papeleta que te entregue este en blanco.{0} *Referencias: Ley 026 art. 159."
             },
@@ -103,7 +103,7 @@
               "descripcion": "Si fuiste designado/a jurado/a electoral, serás capacitado/a por personal del OEP sobre tus funciones y los protocolos de bioseguridad que debes aplicar en la jornada electoral. Para las elecciones 2020, las capacitaciones de jurados/as se desarrollarán a partir del 21 de septiembre.{0} Aprovecha estas capacitaciones para tomar nota de los protocolos de bioseguridad que deberás aplicar, conocer a los/as otros/as jurados/as que te acompañarán y elegir al jurado/a presidente/a de tu mesa.{0} A continuación, te explicamos tus funciones como jurado/a al inicio, durante y al finalizar el proceso de votación en tu mesa de sufragio."
             },
             "item5": {
-              "titulo": "¿Cómo me preparo para la jornada electoral?",
+              "titulo": "¿Cómo cuidar mi salud en las elecciones?",
               "imagen": "ficha5-jurado.jpg",
               "descripcion": "El día de la elección:{0} a. Antes de salir de casa, viste y porta barbijos, guantes, alcohol en gel, tu documento de identidad, bolígrafos y los implementos que creas necesarios. Es recomendable que lleves pares adicionales de barbijos, guantes, etc como repuesto.{0} b. El/la notario/a de tu recinto te entregará un monto para cubrir tu refrigerio, sin embargo es recomendable que lleves preparada una merienda y evites comprar otros alimentos.{0} c. Acude a tu recinto a las 06:00, al igual que los otros/as jurados/as de tu mesa."
             },
@@ -447,7 +447,7 @@
         }
       },
       "item5": {
-        "titulo": "¿Qué medidas de bioseguridad se aplicarán en las elecciones bolivianas 2020?",
+        "titulo": "¿Qué medidas de protección se aplicarán en las elecciones bolivianas 2020?",
         "descripcion": "De acuerdo a disposiciones del Tribunal Supremo Electoral, consultadas con la Organización Panamericana de la Salud (OPS), las medidas de bioseguridad para votantes se enfocarán en distribuir/reducir su concentración a fin de evitar aglomeraciones, bajo los siguientes ejes:{0} a. Incremento de la cantidad de recintos electorales.{0} b. Horarios de votación ampliados en 1 hora hasta las 17:00.{0} c. Horarios de votación diferenciados; de 08:00 a 12:30 deberán votar las personas con documentos de identidad que terminen en 0, 1, 2, 3 o 4, y de 12:30 a 17:00 deberán acudir a votar quienes tengan documentos que terminen en 5, 6, 7, 8 y 9.{0} Al mismo tiempo se establecerán medidas de protección para jurados/as electorales, como la dotación de implementos de bioseguridad para la jornada electoral y la aplicación de protocolos de cuidado para la capacitación de jurados/as, el manejo del material electoral y la administración de las mesas de sufragio."
       },
       "item6": {
