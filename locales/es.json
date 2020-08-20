@@ -501,7 +501,15 @@
       },
       "item6": {
         "titulo": "¿Hay algún porcentaje mínimo de asistencia para una elección?",
-        "descripcion": "El voto directo, individual, emitido en secreto y escrutado públicamente es un derecho político que los/as bolivianos/as ejercemos con libertad. Por este motivo, normativamente no existe ni podría existir un porcentaje mínimo requerido de participación o asistencia de la población en un proceso electoral.{0} Todos/as quienes participan y emiten su voto en una elección, ejercen sus derechos políticos y merecen que las opciones electorales por las que optaron sean respetadas y reconocidas.{0} *Referencias: CPE art. 26; Ley 026 arts. 4, 43."
+        "descripcion": "El voto directo, individual, emitido en secreto y escrutado públicamente es un derecho político que los/as bolivianos/as ejercemos con libertad. Por este motivo, normativamente no existe ni podría existir un porcentaje mínimo requerido de participación o asistencia de la población en un proceso electoral.{0} Todos/as quienes participan y emiten su voto en una elección, ejercen sus derechos políticos y merecen que las opciones electorales por las que optaron sean respetadas y reconocidas.{0} Como evidencia de la vocación electoral de los/as bolivianos/as, un {1} de la {2} realizado en agosto de 2020 y dirigido a 118 opinadores de diferentes tendencias, señala que el 85% de los/as entrevistados/as confirmaron su participación en las elecciones fijadas para el 18 de octubre de 2020.{0} *Referencias: CPE art. 26; Ley 026 arts. 4, 43.",
+        "link": {
+          "texto": "estudio",
+          "url": "https://drive.google.com/file/d/1sVX5Ra6Z9xYAkioQCrEyF4f-I4FSpzdI/view?usp=sharing"
+        },
+        "link2": {
+          "texto": "Fundación Friedrich Ebert Stiftung en Bolivia",
+          "url": "https://www.fes-bolivia.org/"
+        }
       },
       "item7": {
         "titulo": "¿Cuándo y por qué se requiere una ley para fijar la fecha de una elección?",
