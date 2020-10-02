@@ -309,32 +309,36 @@
         },
         "item3": {
           "imagen": "trep.png",
-          "titulo": "Conteo rápido",
+          "titulo": "Resultados preliminares",
           "enlace": "trep",
           "fichas": {
             "item1": {
-              "titulo": "¿Qué es el conteo rápido?",
+              "titulo": "¿Qué es el reporte de resultados preliminares?",
               "imagen": "ficha1-trep.jpg",
-              "descripcion": "El conteo rápido es un reporte de resultados electorales referenciales, sin valor oficial (no vinculantes), difundidos en el menor tiempo posible y de forma preliminar. Estos resultados preliminares son publicados en el {1} al concluir la jornada electoral.{0} Para las elecciones 2020 el conteo rápido será procesado mediante el sistema informático DIREPRE (Difusión de Resultados Preliminares) a partir de las 18:00 horas de la jornada electoral y de forma paulatina. El DIREPRE reemplazará el TREP y será administrado exclusivamente por el Tribunal Supremo Electoral.{0} El conteo rápido no tiene efectos legales, prioriza la inmediatez sobre la precisión de los resultados, no contempla medidas de control o seguridad y funciona de manera totalmente independiente al cómputo oficial de votos.{0} *Referencias: Ley 026 art. 128; Reglamento estudios de opinión arts. 3, 4; Reglamento elecciones (2019) art. 52.",
+              "descripcion": "El reporte de resultados preliminares es un conteo de resultados electorales referenciales, sin valor oficial (no vinculantes), difundidos en el menor tiempo posible y de forma preliminar. Este reporte es publicado en el {1} al concluir la jornada electoral.{0} Para las elecciones 2020 los resultados preliminares serán procesados mediante el sistema informático DIREPRE (Difusión de Resultados Preliminares) a partir de las 18:00 horas de la jornada electoral y de forma paulatina. El DIREPRE reemplazará al TREP y será administrado exclusivamente por el Tribunal Supremo Electoral.{0} El reporte de resultados preliminares no tiene efectos legales, prioriza la inmediatez sobre la precisión de los datos, no contempla medidas de control o seguridad y funciona de manera totalmente independiente al cómputo oficial de votos.{0} *Referencias: Ley 026 art. 128; Reglamento estudios de opinión arts. 3, 4; Reglamento elecciones (2019) art. 52.",
               "link": {
                 "texto": "portal del OEP",
                 "url": "https://www.oep.org.bo/"
               }
             },
             "item2": {
-              "titulo": "¿Quienes operan el conteo rápido?",
+              "titulo": "¿Quienes procesan los resultados preliminares?",
               "imagen": "ficha2-trep.jpg",
-              "descripcion": "Los datos del conteo rápido reportados en el portal del OEP a través del sistema DIREPRE, se capturarán mediante una aplicación móvil manejada por los/as notarios/as de recinto desplegados/as por el órgano electoral.{0} A diferencia del cómputo oficial de votos, el procesamiento y difusión de resultados preliminares a través del sistema DIREPRE será ejecutado por personal del OEP de forma unilateral, sin controles de jurados/as electorales, organizaciones políticas o misiones de observación.{0} *Referencias: Reglamento elecciones (2019)art. 53."
+              "descripcion": "Los resultados preliminares reportados en el portal del OEP a través del sistema DIREPRE, se capturarán mediante una aplicación móvil manejada por los/as notarios/as de recinto desplegados/as por el órgano electoral.{0} A diferencia del cómputo oficial de votos, el procesamiento y difusión de resultados preliminares a través del sistema DIREPRE será ejecutado por personal del OEP de forma unilateral, sin controles de jurados/as electorales, organizaciones políticas o misiones de observación.{0} *Referencias: Reglamento elecciones (2019)art. 53."
             },
             "item3": {
-              "titulo": "¿Cómo se realiza el conteo rápido?",
+              "titulo": "¿Cómo se procesan los resultados preliminares?",
               "imagen": "ficha3-trep.jpg",
-              "descripcion": "Cada notario/a de recinto, ingresará a la aplicación móvil para conteo rápido (en su celular) y:{0} a. Sacará fotografías a las actas electorales (originales o copias) que hayan sido llenadas en las mesas de su recinto.{0} b. Subirá las fotografías al sistema.{0} c. Tabulará los resultados registrados en las actas (sin considerar aclaraciones, correcciones u observaciones anotadas en ellas).{0} d. Finalizará y guardará el registro.{0} e. Actualizará y publicará vía internet, la información en el portal del OEP. {0} IMPORTANTE: Por lo general, los datos electorales de las zonas rurales son los últimos en ser publicados en el portal del OEP debido al internet intermitente de estas regiones. La información que es registrada en la aplicación móvil por los/as notarios/as electorales de zonas rurales sin internet, es actualizada en el portal de golpe y de forma tardía, una vez que el/la notario/a consigue una conexión.{0} *Referencias: Reglamento elecciones (2019)art. 54."
+              "descripcion": "Cada notario/a de recinto, ingresará a la aplicación móvil para captura de resultados preliminares (en su celular) y:{0} a. Sacará fotografías a las actas electorales (originales o copias) que hayan sido llenadas en las mesas de su recinto.{0} b. Subirá las fotografías al sistema.{0} c. Tabulará los resultados registrados en las actas (sin considerar aclaraciones, correcciones u observaciones anotadas en ellas).{0} d. Finalizará y guardará el registro.{0} e. Actualizará y publicará vía internet, la información en el portal del OEP. {0} IMPORTANTE: Por lo general, los resultados de las zonas rurales son los últimos en ser publicados en el portal del OEP debido al internet intermitente de estas regiones. La información que es registrada en la aplicación móvil por los/as notarios/as electorales de zonas rurales sin internet, es actualizada en el portal de golpe y de forma tardía, una vez que el/la notario/a consigue una conexión.{0} *Referencias: Reglamento elecciones (2019)art. 54."
             },
             "item4": {
-              "titulo": "¿Qué fin tiene el conteo rápido?",
+              "titulo": "¿Qué fin tiene el reporte de resultados preliminares?",
               "imagen": "ficha4-trep.jpg",
-              "descripcion": "El fin del conteo rápido es establecer TENDENCIAS (no cifras definitivas) de votación ante la opinión pública a la brevedad posible, priorizando, como dijimos, la inmediatez de los datos sobre su precisión.{0} La información tabulada por cada notario/a de recinto en el conteo rápido tiene muchas veces errores de llenado, no contempla aclaraciones registradas en acta y no dispone de controles o personal adicional para verificarla.{0} Por estos motivos, los resultados difundidos mediante el conteo rápido no son vinculantes, son preliminares y pueden diferir de los resultados procesados y publicados mediante el cómputo oficial.{0} *Referencias: Reglamento estudios de opinión arts. 3, 4; Reglamento elecciones (2019) art. 52."
+              "descripcion": "El fin del reporte de resultados preliminares es establecer TENDENCIAS (no cifras definitivas) de votación ante la opinión pública a la brevedad posible, priorizando, como dijimos, la inmediatez de los datos sobre su precisión.{0} La información contenida en el reporte de resultados preliminares tiene muchas veces errores de llenado, no contempla aclaraciones registradas en acta y no dispone de controles o personal adicional para verificarla. A su vez, en el reporte los porcentajes de los frentes varían mucho durante la jornada debido a que el envío de datos por los/as notarios/as no tiene un orden definido.{0} Por estos motivos, los resultados preliminares no son vinculantes, son referenciales, NO PUEDEN USARSE PARA DECLARAR GANADORES, PERDEDORES O UNA SEGUNDA VUELTA y pueden diferir de los resultados procesados y publicados mediante el {1}.{0} *Referencias: Reglamento estudios de opinión arts. 3, 4; Reglamento elecciones (2019) art. 52.",
+              "link": {
+                "texto": "cómputo oficial",
+                "url": "https://cuidatuvoto.org/aprende-mas/computo-oficial"
+              }
             }
           }
         },
@@ -346,7 +350,7 @@
             "item1": {
               "titulo": "¿Qué es el cómputo oficial?",
               "imagen": "ficha1-computo.jpg",
-              "descripcion": "El cómputo oficial de votos es el conjunto de pasos que se siguen para revisar, validar y publicar los resultados electorales oficiales (vinculantes) de una elección. Las etapas del cómputo oficial, todas públicas y participativas, son: {0} a. Escrutinio de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente al conteo rápido.{0} *Referencias: Ley 026 Capítulo III."
+              "descripcion": "El cómputo oficial de votos es el conjunto de pasos que se siguen para revisar, validar y publicar los resultados electorales oficiales (vinculantes) de una elección. Las etapas del cómputo oficial, todas públicas y participativas, son: {0} a. Escrutinio de votos en las mesas de sufragio.{0} b. Cómputo departamental.{0} c. Cómputo nacional.{0} d. Proclamación de resultados.{0} El cómputo oficial tiene efectos legales, prioriza la precisión de los resultados sobre su inmediatez, contempla estrictas medidas de control, la participación de varios involucrados y funciona de manera totalmente independiente al reporte de resultados preliminares.{0} *Referencias: Ley 026 Capítulo III."
             },
             "item2": {
               "titulo": "¿Quiénes operan el cómputo oficial?",
@@ -373,14 +377,18 @@
               }
             },
             "item6": {
-              "titulo": "¿Cómo se proclaman los resultados finales?",
+              "titulo": "¿Qué es la proclamación de resultados finales?",
               "imagen": "ficha6-computo.jpg",
-              "descripcion": "Emitida el acta de cómputo nacional, el Tribunal Supremo Electoral realiza la proclamación de los resultados oficiales y los/as ganadores de la elección.{0} Un candidato/a será proclamado/a como ganador/a si hubiera superado el 50% de los votos válidos emitidos o si hubiera superado el 40% con una diferencia igual o mayor al 10% con el/la siguiente candidato/a. Si no se cumplen estas condiciones se desarrollará una segunda vuelta entre las dos candidaturas más votadas en el plazo máximo de 60 días después de la primera votación.{0} Los escaños de la asamblea legislativa plurinacional se distribuyen por organización política de acuerdo a los porcentajes obtenidos por su candidato/a a presidente en la elección.{0} *Referencias: CPE art. 166; Ley 026 arts. 52, 191."
+              "descripcion": "Emitida el acta de cómputo nacional, el Tribunal Supremo Electoral realiza la proclamación de los resultados oficiales y los/as ganadores de la elección en un acto público.{0} Un candidato/a será proclamado/a como ganador/a si hubiera superado el 50% de los votos válidos emitidos o si hubiera superado el 40% con una diferencia igual o mayor al 10% con el/la siguiente candidato/a. Si no se cumplen estas condiciones se desarrollará una segunda vuelta entre las dos candidaturas más votadas en el plazo máximo de 60 días después de la primera votación.{0} Los escaños de la asamblea legislativa plurinacional se distribuyen por organización política de acuerdo a los porcentajes obtenidos por su candidato/a a presidente en la elección.{0} *Referencias: CPE art. 166; Ley 026 arts. 52, 191."
             },
             "item7": {
               "titulo": "¿Qué fin tiene el cómputo oficial?",
               "imagen": "ficha7-computo.jpg",
-              "descripcion": "El fin del cómputo oficial de votos es establecer y declarar de forma vinculante y definitiva a los/as ganadores/as de la elección y los resultados finales de la votación, priorizando la integridad y exactitud de los datos sobre su inmediatez.{0} El procesamiento de las actas electorales y el cómputo de sus resultados involucra una serie de actores y etapas públicas de control que garantizan la transparencia y seguridad del proceso, la preservación de la voluntad popular y la exactitud de los resultados electorales, oficiales y vinculantes.{0} El cómputo oficial está legalmente reconocido y validado por la Ley 018 del Órgano Electoral Plurinacional y la Ley 026 de Régimen Electoral.{0} *Referencias: Ley 026 art 191, 252."
+              "descripcion": "El fin del cómputo oficial de votos es establecer y declarar de forma vinculante y definitiva a los/as ganadores/as de la elección y los resultados finales de la votación, priorizando la integridad y exactitud de los datos sobre su inmediatez.{0} A diferencia del {1}, el procesamiento de las actas electorales y sus resultados mediante el proceso oficial de cómputo involucra una serie de actores y etapas públicas de control que garantizan la transparencia y seguridad del proceso, la preservación de la voluntad popular y la exactitud de los resultados electorales, oficiales y vinculantes.{0} El cómputo oficial está legalmente reconocido y validado por la Ley 018 del Órgano Electoral Plurinacional y la Ley 026 de Régimen Electoral.{0} *Referencias: Ley 026 art 191, 252.",
+              "link": {
+                "texto": "reporte de resultados preliminares",
+                "url": "https://cuidatuvoto.org/aprende-mas/trep"
+              }
             }
           }
         }
